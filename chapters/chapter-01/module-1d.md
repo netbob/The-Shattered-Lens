@@ -6,7 +6,7 @@
 
 The transition from a digital society to a silent landscape did not occur with a sudden explosive roar, but with a series of quiet, systemic subtractions.
 
-By 06:10 AM PDT on Monday, October 26, 2026, the synchronization horizon across North America had completely collapsed.
+By 06:10 AM PDT on Sunday, October 25, 2026, the synchronization horizon across North America had completely collapsed.
 
 In the high-density routing facilities of the Pacific Northwest, automated optical switches began dropping their wavelength-division multiplexing arrays because they could no longer verify the integrity of the border gateway protocol handshakes. The lines didn't melt; they simply stopped passing bits, leaving the transoceanic fiber pipelines humming with dead carrier waves that terminated in empty glass terminals.
 
