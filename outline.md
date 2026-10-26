@@ -63,6 +63,7 @@
   - Ninety-two survivors are integrated into the bunker network. Marcus establishes the caloric credit system based on handwritten ledger entries and hand-stamped lead bullet-mold tokens.
   - A micro-society forms: technicians are repurposed as manual gravel-shifters, farmers learn to parse the frozen soil for edible roots, and literacy in copperplate handwriting becomes the highest technical skill.
   - The psychological shift: people stop asking for their bank balances and start fighting over who has a recorded credit for an iron spade.
+  - The Registry's timekeeper (unnamed): a veteran drummer who marks the hours by drum — time kept by hand, rhyming with Marcus's stopwatch — playing Zappa fills between beats, a homage to John Sundman.
 
 ### Chapter 8: The Oracle of Shaver Lake
 
