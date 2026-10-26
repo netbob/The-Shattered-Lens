@@ -1,5 +1,7 @@
 # The Shattered Lens
 
+![The Shattered Lens cover](cover.webp)
+
 A hard-dystopian post-apocalyptic narrative detailing the collapse of structural infrastructure following the Astraea-9 impact event and the subsequent regression of human trust architecture from silicon logic back to scribal ledger systems.
 
 ## Technical Lore & Theoretical Framework
