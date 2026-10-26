@@ -23,9 +23,16 @@ Living list of open issues, character-arc questions, and consistency notes for t
 
 ### Structure / repo
 
-12. **Chapter 1, Module 1E — not yet written.** Four of five modules filed (1A–1D). One outline beat not yet dramatized: Marcus computing the true trajectory from the raw data (1B shows receipt, not calculation). Needed: author decision on 1E's content (calculation scene? government misclassification beat? other?).
+12. **Chapter boundary — impact in Chapter 1 vs Chapter 3 (structural).** Module 1E depicts the impact, but the outline puts the impact in Chapter 3 ("The Crimson Horizon"). Chapter 1 now has all five modules filed (1A–1E), running discovery through impact. Needed: author ruling — does Chapter 1 now run discovery→impact (Chapters 2–3 redefined), or does 1E belong in Chapter 3 (and Chapter 1's fifth module is still the calculation beat — Marcus computing the trajectory, which 1B shows receipt of, not calculation of)?
 13. **Outline sync (repo hygiene).** outline.md still says "Robert Miller" (Chapter 10; ruled: Robert Hayes), still says "independent amateur astronomer in Chile" (ruled: ACT/Rubin data via Santiago amateur transponder), and doesn't state the ruled relationships (Thorne brothers, Vance father/daughter, June Miller). Needed: a sync pass on outline.md when it is next touched.
 14. **The lens — literal, metaphor, or both? (theme).** 1D introduces a literal atmospheric lens (the ionization glow forming "a vast, shimmering lens" over the valley). Needed: author confirmation — is that the title's lens, or does a physical optic (Haleakala scope?) also carry it?
+
+15. **Six-mile-wide vs eleven-kilometer (1E).** 1E calls the primary fragment "a six-mile-wide mass"; canon is an eleven-kilometer body (11 km ≈ 6.8 mi; 6 mi ≈ 9.7 km). Needed: clarify — is the primary fragment the largest piece of the fragmented 11 km body (then six-mile is fine, say so), or the whole body (then use ~seven-mile / eleven-kilometer)?
+16. **"Three hundred miles west of Point Conception" (1E).** Read literally, this puts the impact 300 miles offshore in deep ocean — contradicting both the canon impact AT Point Conception and 1E's own "shallow continental shelf" (the shelf is ~10–30 miles wide; 300 miles out is abyssal plain). Likely slip for "at Point Conception, three hundred miles west [of the valley]" — echoing Elena's 1B line. Needed: rephrase to pin the impact at Point Conception. (Sibling of item 11: the three-hundred-miles figure needs pinning in both places.)
+17. **Seventy-eight-second gap (1E).** 1E has the mantle shockwave arriving "precisely seventy-eight seconds before the sound wave" at the Sierra base (~300 km from Point Conception). Seismic P-wave covers ~300 km in ~50 s; sound takes ~860 s (~14 min) — the gap should be ~13–14 minutes, not 78 seconds (a 78 s gap implies ~27 km). Needed: change the number (or the wave described isn't acoustic sound).
+18. **Forty miles into the stratosphere (1E).** Forty miles is ~64 km; the stratosphere tops out at ~50 km (~31 mi) — forty miles up is the mesosphere. Needed: "forty miles into the upper atmosphere" or "twenty miles into the stratosphere."
+19. **"Air cooling loops on our lungs" (1E).** Unclear whether Marcus and Elena have breathing gear with cooling loops (never established) or Elena means their lungs failing from the sulfur mix. Needed: one clarifying word.
+20. **Foothill gate vs ridge gate (1D vs 1E).** 1D says "past the foothill gate"; 1E says "make the ridge gate by dawn." Same gate under two names, or two gates? Needed: one name (or a line distinguishing them).
 
 ## Settled Canon (do not re-litigate without a new ruling)
 
@@ -37,4 +44,7 @@ Living list of open issues, character-arc questions, and consistency notes for t
 - Drift: 1.44 arcsec over 2h25m = 0.000166 arcsec/s (RA); DEC scaled by the same factor to 0.000045 arcsec/s, preserving vector direction.
 - Names: Aris + Marcus Thorne are brothers. Elena Vance + the Director are father/daughter. Chapter 10 soldier is Robert Hayes. Haleakala grad student is June Miller (was Sarah Miller). 1C lead is David Sterling (not Vance). The name Sarah appears nowhere in the filed book.
 - Truck: the F-250's dead electronics are bypassed by Elena's manual brass fuel pump (mechanically revivable); 1B's "forty gallons" (estimate) vs 1D's "forty-two gallons" (dipstick) is consistent.
+- Chapter 1 complete: modules 1A–1E filed; 1E is the impact evening, October 25 (date unstated in text, forced by the outline + 1D).
+- Marcus + Elena on foot with a two-wheeled handcart in 1E (rig abandoned, per 1D's warning).
+- San Joaquin basin floods: the displacement wave reaches the delta gates by noon, matching 1B's five-hundred-foot surge line.
 - Superseded drafts (do not revive): 1B "The Packet Horizon" (v1) and 1C Camp Williams start (David Vance / Sarah Vance) were never filed. The 1C rewrite voids the earlier Sarah Vance married-name and David-as-brother rulings.
