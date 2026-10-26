@@ -17,3 +17,6 @@ Upon impact with the Pacific shelf near Point Conception (34.4481Â° N, 120.4714Â
 
 The manuscript is constructed modularly to support a target volume of 480,000 words across 12 chapters. Each chapter is broken into five distinct, high-fidelity narrative modules.
 
+## Cover and License
+
+Cover art (`cover.webp`) AI-generated with Muse (October 2026), released under CC BY 4.0 alongside the text.
