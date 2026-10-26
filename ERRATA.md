@@ -1,6 +1,6 @@
 # Walking Errata — The Shattered Lens
 
-Living list of open issues, character-arc questions, and consistency notes for the manuscript. Updated as issues are ruled on or resolved. Resolved items move to Settled Canon and are not re-litigated without a new ruling. Last updated: October 26, 2026.
+Living list of open issues, character-arc questions, and consistency notes for the manuscript. Updated as issues are ruled on or resolved. Resolved items move to Settled Canon and are not re-litigated without a new ruling. Applied patches are recorded in the Patch Log below. Last updated: October 26, 2026.
 
 ## Open Issues
 
@@ -27,18 +27,39 @@ Living list of open issues, character-arc questions, and consistency notes for t
 13. **Outline sync (repo hygiene).** outline.md still says "Robert Miller" (Chapter 10; ruled: Robert Hayes), still says "independent amateur astronomer in Chile" (ruled: ACT/Rubin data via Santiago amateur transponder), and doesn't state the ruled relationships (Thorne brothers, Vance father/daughter, June Miller). Needed: a sync pass on outline.md when it is next touched.
 14. **The lens — literal, metaphor, or both? (theme).** 1D introduces a literal atmospheric lens (the ionization glow forming "a vast, shimmering lens" over the valley). Needed: author confirmation — is that the title's lens, or does a physical optic (Haleakala scope?) also carry it?
 
-15. **Six-mile-wide vs eleven-kilometer (1E).** 1E calls the primary fragment "a six-mile-wide mass"; canon is an eleven-kilometer body (11 km ≈ 6.8 mi; 6 mi ≈ 9.7 km). Needed: clarify — is the primary fragment the largest piece of the fragmented 11 km body (then six-mile is fine, say so), or the whole body (then use ~seven-mile / eleven-kilometer)?
+15. **Resolved — see PATCH-002.** (Six-mile vs eleven-kilometer: the six-mile core is the largest piece of the fragmented eleven-kilometer body.)
 16. **"Three hundred miles west of Point Conception" (1E).** Read literally, this puts the impact 300 miles offshore in deep ocean — contradicting both the canon impact AT Point Conception and 1E's own "shallow continental shelf" (the shelf is ~10–30 miles wide; 300 miles out is abyssal plain). Likely slip for "at Point Conception, three hundred miles west [of the valley]" — echoing Elena's 1B line. Needed: rephrase to pin the impact at Point Conception. (Sibling of item 11: the three-hundred-miles figure needs pinning in both places.)
 17. **Seventy-eight-second gap (1E).** 1E has the mantle shockwave arriving "precisely seventy-eight seconds before the sound wave" at the Sierra base (~300 km from Point Conception). Seismic P-wave covers ~300 km in ~50 s; sound takes ~860 s (~14 min) — the gap should be ~13–14 minutes, not 78 seconds (a 78 s gap implies ~27 km). Needed: change the number (or the wave described isn't acoustic sound).
 18. **Forty miles into the stratosphere (1E).** Forty miles is ~64 km; the stratosphere tops out at ~50 km (~31 mi) — forty miles up is the mesosphere. Needed: "forty miles into the upper atmosphere" or "twenty miles into the stratosphere."
 19. **"Air cooling loops on our lungs" (1E).** Unclear whether Marcus and Elena have breathing gear with cooling loops (never established) or Elena means their lungs failing from the sulfur mix. Needed: one clarifying word.
 20. **Foothill gate vs ridge gate (1D vs 1E).** 1D says "past the foothill gate"; 1E says "make the ridge gate by dawn." Same gate under two names, or two gates? Needed: one name (or a line distinguishing them).
 
+21. **Chile relay mechanism — transponder vs bridge node (PATCH-003 held).** The draft patch log proposes ACT data via 'an automated network bridge node'; settled canon records a Santiago amateur packet transponder (filed 1B says only 'CHILE APER NODE'). Needed: author ruling — keep the transponder, or retcon to the bridge node (and update the canon note). PATCH-003 is not logged as patched until ruled.
+
+## Patch Log
+
+The following patches are officially applied in the current manuscript files. PATCH-003 is held pending a ruling (see open item 21) and is not logged here.
+
+### [PATCH-001] Chapter 1, Module 1A: Primary Aperture Discrepancy
+*   **Severity:** High (Technical Inconsistency)
+*   **Identified:** Initial drafts cited an "eleven-meter primary mirror" for the Pan-STARRS telescope array at the summit of Haleakala. This directly violates real-world architectural design and optical engineering specifications.
+*   **Resolution:** Modified `chapters/chapter-01/module-1A.md` to correctly specify a **1.8-meter diameter primary aperture mirror** mapping to the actual PS1 and PS2 alt-azimuth optical designs. Grounded the massive pixel output in the camera's **1.47-gigapixel focal plane** rather than raw mirror scale.
+
+### [PATCH-002] Chapter 1, Module 1A/1B: Astraea-9 Orbital Structure
+*   **Severity:** Medium (Narrative/Physics Realism)
+*   **Identified:** The initial plot layout implied a completely monolithic eleven-kilometer impact event, which failed to explain early high-altitude atmospheric ionization and localized radio frequency inversion events occurring prior to the primary kinetic impact.
+*   **Resolution:** Retconned the astronomical taxonomy of Astraea-9 to a **tidally fragmented long-period comet**. The object behaves as a "string of pearls" array. The eleven-kilometer body fragmented; its largest piece — the primary six-mile-wide solid carbonaceous/methane-ice core — is targeted at the Point Conception shelf. Advanced micro-fragments entered the upper exosphere hours early, generating the localized ionospheric shearing, electrical gridding, and violet light emissions tracked by Marcus Thorne on Dakota Avenue. (Closes open item 15.)
+
+### [PATCH-004] Chapter 1, Module 1B: Transmission Filing Loop Closure
+*   **Severity:** High (Hanging Execution)
+*   **Identified:** The original staging file for Module 1B dropped off mid-scene, leaving Marcus Thorne's packet intercept sequence incomplete and missing his direct manual transition to physical ledger logging.
+*   **Resolution:** Completed full integration of `chapters/chapter-01/module-1B.md`. The text now explicitly details the failure of the truck's diagnostic CAN bus and quartz resonator, the death of the CRT monitoring glass, and Marcus's manual transition to physical ledger logging: the Teletype sheet pasted as Page One of the leather ledger with a handwritten entry.
+
 ## Settled Canon (do not re-litigate without a new ruling)
 
 - Timeline: 1C Oct 22, 05:44Z → 1A Oct 22, 01:15–04:12 HST → 1B Oct 23, 05:30 PDT → 1D Oct 25, 06:10 PDT → impact Oct 25 evening.
 - Mirror: Pan-STARRS 2 primary is 1.8 meters. Camera: 1.47-gigapixel focal plane; the FITS appendix's 9216² frame is a tracking subframe, not the full mosaic.
-- Astraea-9: tidally fragmented, Shoemaker-Levy 9 style; primary 11 km chunk hits Point Conception; trailing fragments graze the ionosphere pre-impact (the 1B wavefront mechanism).
+- Astraea-9: tidally fragmented, Shoemaker-Levy 9 style; the eleven-kilometer body fragmented and its largest piece — the six-mile-wide core — hits Point Conception; trailing fragments graze the ionosphere pre-impact (the 1B wavefront mechanism). (PATCH-002)
 - Chile source: Atacama Cosmological Telescope / Vera C. Rubin data, relayed via an amateur packet transponder in Santiago.
 - File size: 9216² × 8 bytes = 679.5 MB ("six hundred eighty megabytes"); BITPIX -64 stands.
 - Drift: 1.44 arcsec over 2h25m = 0.000166 arcsec/s (RA); DEC scaled by the same factor to 0.000045 arcsec/s, preserving vector direction.
