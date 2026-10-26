@@ -25,7 +25,7 @@ The clerk didn't reach for the money. She didn't have a pen. "The system tracks 
 
 Outside, past the glass pane of the exit doors, the wide parking lot had already begun to turn into a sprawling, stationary maze of dead internal combustion vehicles. Alarms were honking uniformly across the asphalt—not from accidents, but because their automated anti-theft tracking algorithms had timed out after losing contact with their cellular towers, mistaking the network silence for an ongoing hotwire attempt.
 
-Five miles to the east, climbing along the rocky, unpaved logging path behind the enterprise canal canal system, Marcus Thorne didn't look back at the city's hazy horizon. He was adjusting the canvas shoulder straps of his ledger case, his boots grinding steady gray dust into the parched mountain scree.
+Five miles to the east, climbing along the rocky, unpaved logging path behind the enterprise canal system, Marcus Thorne didn't look back at the city's hazy horizon. He was adjusting the canvas shoulder straps of his ledger case, his boots grinding steady gray dust into the parched mountain scree.
 
 "The supermarkets are locking down," Elena said, her voice raspy from the heavy, sulfurous haze that was beginning to drift over the lower foothills. She was leading the handcart up a steep granite incline, her muscles straining against the weight of the water tins. "They have three weeks of food sitting on the shelves down there, Marc, and they’re going to let it rot in the dark because a silicon wafer won't let a drawer slide open."
 
