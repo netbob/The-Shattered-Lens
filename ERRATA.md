@@ -3,7 +3,7 @@
 This document tracks technical contradictions, structural retcons, and mechanical telemetry corrections applied across the repository branches of `netbob/The-Shattered-Lens`. All Act I issues logged here are officially patched within the current version of the manuscript files.
 
 ## Open Issues
-*   None. All Act I architectural constraints are synchronized and closed.
+*   **Outline sync pending (Michael's call):** Chapter 3 is titled 'The Ash Migration' in the Module 3A header (first Chapter 3 module filed), but the outline still lists Chapter 3 as 'The Crimson Horizon' (content TBD). All six Chapter 2-3 modules filed so far (2A-2E, 3A) carry 'Act II: The Great Disconnection' headers, but the outline places Chapters 2 and 3 in Act I (Act II starts at Chapter 4). The outline is untouched pending Michael's decision on the Chapter 3 title and the Chapter 2-3 act placement.
 
 ## Patch Log
 
@@ -61,7 +61,7 @@ This document tracks technical contradictions, structural retcons, and mechanica
 ## Forward Notes (writing tasks, not contradictions)
 *   ARQ clarifying line for 1B (ruling #10) — to be written.
 *   AS/400 mechanism to be established in text before Chapter 8 (canon defined: cold-chassis + Faraday cage).
-*   Chapter 3 redefinition — its impact content moved to Chapter 1; new content TBD (do not duplicate the impact).
+*   Chapter 3 redefinition — its impact content moved to Chapter 1; new content now defined by Module 3A ('The Ash Migration,' delta back-surge, Oct 26 noon). Outline sync (title + Chapter 2-3 act placement) pending — see Open Issues.
 *   Chapters 4–5 premise vs Modules 1D–1E — the F-250 cab tomb (Ch4) and truck-door emergence (Ch5) conflict with Marcus + Elena on foot in the Pine Ridge hills, rig abandoned; needs a story decision (hillside shelter? return to the truck? rework?).
 *   Pod 4 facility name at Moab — "NSA-South" retained for now; rename if desired.
 *   David's route — east out of Utah first, then west to Shaver Lake (long arc, not a direct route); confirm if intended.
