@@ -1,31 +1,32 @@
 # The Shattered Lens — Outline
 
-## Act I: The Logic Loop (The Pre-Impact Window)
+## Act I: The Logic Loop
 
 ### Chapter 1: The Ephemeris Error
 
-- **Narrative Focus:** Introduction of Astraea-9 and the catastrophic divergence between institutional modeling and amateur observation.
+- **Narrative Focus:** Introduction of Astraea-9, the catastrophic divergence between institutional modeling and amateur observation, and the impact itself.
 - **Key Developments:**
-  - Graduate students at Haleakala spot anomalous fragmentation of a long-period comet. Government bureaucracy misclassifies the telemetry to prevent market panic.
-  - In Clovis, Marcus Thorne notices that automated network time-sync protocols (NTP) are dropping packets. His custom packet radio array picks up unrefined raw orbital data from an independent amateur astronomer in Chile.
+  - Aris Thorne (Marcus's brother) and graduate student June Miller at Haleakala spot anomalous fragmentation of a long-period comet. Government bureaucracy misclassifies the telemetry to prevent market panic.
+  - In Clovis, Marcus Thorne notices that automated network time-sync protocols (NTP) are dropping packets. His custom packet radio array picks up unrefined raw orbital data from the Atacama Cosmological Telescope / Vera C. Rubin array via the Santiago amateur packet transponder (Site 2).
   - Marcus finishes calculating the true trajectory on his Windows system, realizing the main body will strike the Pacific shelf within 96 hours.
+  - In Utah, the cryptographic trust architecture decouples (Pod 4, Paradox Basin) as the master time authority misreads ionization drift as a replay attack and rolls its keys three days early (Module 1C).
+  - The synchronization horizon collapses across North America; Marcus and Elena prepare to leave Dakota Avenue for the Pine Ridge foothills (Module 1D).
+  - Astraea-9's six-mile-wide core strikes Point Conception on the evening of October 25 (Module 1E).
 - **The Technical Backdrop:** The quiet decay of the internet's core trust architecture as the federal government stops pushing global public key cryptographic updates due to systemic logic failures in Utah.
 
 ### Chapter 2: The Dying of the Keys
 
-- **Narrative Focus:** The quiet, claustrophobic panic of the final 48 hours before impact as infrastructure begins to lock its own operators out.
+- **Narrative Focus:** The pitch-black aftermath: infrastructural disintegration of the towns in the days after impact.
 - **Key Developments:**
-  - Elena Vance tries to service local regional electrical substations in the Central Valley but finds her modern digital diagnostic equipment refusing to handshake with the legacy terminal blocks due to expired security certificates.
-  - The Director (Vance, the future antagonist) orders the mass scraping and backup of the state utility records, land registries, and financial databases onto a hardened, legacy IBM AS/400 mainframe at Shaver Lake, realizing physical assets mean nothing without an authoritative database.
-  - Marcus tries frantically to back up his local telemetry databases, but his modern machines trigger forced verification loops he cannot bypass without dead 2FA servers. He begins manually copying critical technical specifications into local county accounting ledgers with a fountain pen.
+  - Elena Vance tries to service local regional electrical substations in the Central Valley in the dark, finding the grid disintegrating as water, power, and logic controllers fail town by town.
+  - The Director (Vance, Elena's father and the future antagonist) consolidates the Shaver Lake AS/400 — decoupled from the grid for a cold-chassis upgrade inside a Faraday cage at impact — as the authoritative database for the collapsing region.
+  - Marcus continues copying critical technical specifications into local county accounting ledgers with a fountain pen as the towns go dark, the paper becoming the only record that survives.
 
 ### Chapter 3: The Crimson Horizon
 
-- **Narrative Focus:** The evening of October 25. The impact event viewed from the rural flatlands of Dakota Avenue.
+- **Narrative Focus:** Impact moved to Chapter 1 (Module 1E). New Chapter 3 content TBD — do not duplicate the impact.
 - **Key Developments:**
-  - Marcus and Elena are testing their emergency radio node on the shoulder of Dakota Avenue when Astraea-9 hits the Pacific shelf near Point Conception.
-  - The immediate EMP/ionization effect: the violet sky tear, the physical destruction of modern silicon components, and the vacuum failure of Marcus's radar-tube transceiver.
-  - The geological upheaval: The San Andreas fault compresses under hydraulic pressure, heaving the Central Valley floor upward. Marcus's F-250 loses its oil pan as the road buckles into a ridge of gravel and broken asphalt.
+  - TBD — the Dakota Avenue viewpoint and F-250 oil-pan beats are superseded by Modules 1D–1E (departure on foot, Pine Ridge hills).
 
 ## Act II: The Great Disconnection (The Immediate Aftermath)
 
@@ -87,7 +88,7 @@
 - **Key Developments:**
   - The Synod's infiltrators cut the south wire during a freezing gray sleet storm. They bypass the food silos and target the Central Desk directly.
   - The claustrophobic fight in the dark map room: Marcus uses a twenty-pound cast-iron book press as a blunt weapon; Elena fires black-powder hand-loads through her Winchester, filling the bunker with blinding smoke.
-  - The capture of the young soldier, Robert Miller, and Marcus's decision to dip his pen and manually write the boy's mother into the ledger rather than executing him.
+  - The capture of the young soldier, Robert Hayes, and Marcus's decision to dip his pen and manually write the boy's mother into the ledger rather than executing him.
 
 ### Chapter 11: The Death of the Screen
 

@@ -4,17 +4,17 @@
 
 ### Module 1C: The Cryptographic Decoupling
 
-The air within Pod 4 of the National Security Agency’s Cryptographic Infrastructure Complex outside of NSA-South (St. George, Utah) did not circulate; it was pressurized, super-chilled to precisely forty-eight degrees Fahrenheit, and passed through triple-stage HEPA filters until it tasted of metallic static and dry copper sheets.
+The air within Pod 4 of the National Security Agency’s Cryptographic Infrastructure Complex outside of NSA-South (Paradox Basin, near Moab, Utah) did not circulate; it was pressurized, super-chilled to precisely forty-eight degrees Fahrenheit, and passed through triple-stage HEPA filters until it tasted of metallic static and dry copper sheets.
 
 David Sterling did not look at the sky. He had not seen a cloud since the autumn shift began three weeks ago. He sat in an ergonomic steel harness before a five-monitor array that formed a semi-circular wall of matte black glass.
 
 His eyes were bloodshot, tracking the amber lines of a real-time console log that was scrolling too fast for human reading literacy.
 
-[FATAL] [05:44:12Z] sec_kernel_hsm: ECDSA_verify signature length mismatch.
-[WARN]  [05:44:13Z] ntpd[1082]: Stratum-1 peer 192.0.2.1 cryptographically untrusted: invalid leap indicator.
-[ALERT] [05:44:15Z] core_auth_vault: Centralized Certificate Authority (CA) root 'UTAH-ROOT-01' unreachable during hardware token attestation.
+[FATAL] [2026-10-22T05:44:12Z] sec_kernel_hsm: ECDSA_verify signature length mismatch.
+[WARN]  [2026-10-22T05:44:13Z] ntpd[1082]: Stratum-1 peer 192.0.2.1 cryptographically untrusted: invalid leap indicator.
+[ALERT] [2026-10-22T05:44:15Z] core_auth_vault: Centralized Certificate Authority (CA) root 'UTAH-ROOT-01' unreachable during hardware token attestation.
 
-"The jitter is climbing on the bus lines, David," a voice crackled through his bone-conduction headset. It was Janice Vance, the Senior Infrastructure Engineering lead down in the power switching vaults three floors beneath the salt flats. Her voice sounded thin, frayed by seventy hours of continuous emergency shifts. "The high-voltage gas-insulated lines coming off the Intermountain Power Project are tracking a line-frequency variance of seventy millihertz. The automated micro-grid relays are trying to drop the phase angle because they can't verify the timestamp from the stratum-0 atomic clock in Boulder. The safety loops are going to self-latch in less than ten minutes."
+"The jitter is climbing on the bus lines, David," a voice crackled through his bone-conduction headset. It was Janice Vance, the Senior Infrastructure Engineering lead down in the power switching vaults three floors beneath the salt dome. Her voice sounded thin, frayed by seventy hours of continuous emergency shifts. "The high-voltage gas-insulated lines coming off the Intermountain Power Project are tracking a line-frequency variance of seventy millihertz. The automated micro-grid relays are trying to drop the phase angle because they can't verify the timestamp from the stratum-0 atomic clock in Boulder. The safety loops are going to self-latch in less than ten minutes."
 
 David reached down, his thumb pressing a heavy, black mechanical micro-switch built into the frame of his desk—a physical interrupt line that bypassed the software-mediated keyboard matrix.
 

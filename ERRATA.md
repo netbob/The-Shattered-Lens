@@ -1,44 +1,11 @@
-# Walking Errata — The Shattered Lens
+# ERRATA / PATCH LOG: The Shattered Lens
 
-Living list of open issues, character-arc questions, and consistency notes for the manuscript. Updated as issues are ruled on or resolved. Resolved items move to Settled Canon and are not re-litigated without a new ruling. Applied patches are recorded in the Patch Log below. Last updated: October 26, 2026.
+This document tracks technical contradictions, structural retcons, and mechanical telemetry corrections applied across the repository branches of `netbob/The-Shattered-Lens`. All Act I issues logged here are officially patched within the current version of the manuscript files.
 
 ## Open Issues
-
-### Character arcs
-
-1. **Aris Thorne + June Miller — fates at Haleakala (major).** Last seen at the telescope in 1A. Their fate after the impact is unwritten. As Marcus's brother, Aris's survival or death echoes through Marcus's story. Needed: author decision — do they survive, die at Haleakala, or reappear later (Pine Ridge? elsewhere?)?
-2. **David Sterling — fate after Pod 4 (major).** Last seen locked in the dark in the Utah salt vault in 1C, pocket watch ticking. Needed: author decision — does he escape, and does he reappear (Shaver Lake? Pine Ridge? elsewhere?), or does he die in the dark?
-3. **Janice Vance — relation + fate (minor).** Senior Infrastructure Engineering lead in 1C; her audio link goes dead at the breaker trip. Relation to the Director/Elena unstated (family or shared surname?). Fate after 1C unwritten. Needed: one line if family; otherwise leave as colleague — and a fate decision.
-4. **Elena Vance — inheritance beat (end-of-book).** The final image (Elena binding the book while Marcus watches children write on slate) reads as inheritance: he founds the Registry, she becomes its keeper. If intentional, it is the ending's power. If not, her arc wants one more beat of its own. Needed: author confirmation (inheritance intended?) before the final chapters are drafted.
-5. **Estranged-sister thread — dropped or reintroduced?** The 1C Camp Williams start introduced Marcus's estranged sister (Sarah Vance); the rewrite removed her entirely. Needed: author decision — reintroduce the estrangement thread elsewhere, or drop it permanently (current state: dropped).
-
-### Technical / consistency
-
-6. **AS/400 hardening mechanism (major).** The Director's Shaver Lake AS/400 survives while Marcus declares silicon dead in 1B. The Synod's survival is the exception the war depends on. Needed: one explicit mechanism (bunker, Faraday shielding, powered-down at impact, or other) established before Chapter 8, when the Synod terminal appears.
-7. **SITE 2 (minor).** 1B's Teletype header reads "RAW TELEMETRY INVERSION BURIED FROM SITE 2." What is Site 2 — Haleakala's designation, a second site, the Atacama node? Needed: one clarifying line.
-8. **St. George salt geology (minor).** Pod 4 sits "three hundred feet inside a solid salt formation" with "salt flats" near St. George, which is red-rock country; Utah's salt bodies are the Paradox Basin (southeast) and Bonneville (northwest). Needed: a line grounding the salt (fictional salt body, or site sits on salt) — or relocate the salt detail.
-9. **1C date pin (minor).** 1C's logs read 05:44Z; causality forces October 22 (the break precedes 1A's October 22 effects), recorded in the editor's notes. The date is unstated in the text. Needed: a date line in 1C if the author wants it pinned on the page.
-10. **ARQ connected vs collapsed network (minor).** 1B connects via "[ARQ PACKET CONNECTED]" after the network logic established that connected mode was dead. The direct ionospheric bounce justifies it, but one line distinguishing the direct bounce from the dead routed network would keep the logic tight.
-11. **"Three hundred miles" (trivial).** Elena's "three hundred miles west" (Point Conception to Clovis) is road distance; straight-line is ~170 miles. Fine as a stressed estimate, or tighten to "under two hundred miles."
-
-### Structure / repo
-
-12. **Chapter boundary — impact in Chapter 1 vs Chapter 3 (structural).** Module 1E depicts the impact, but the outline puts the impact in Chapter 3 ("The Crimson Horizon"). Chapter 1 now has all five modules filed (1A–1E), running discovery through impact. Needed: author ruling — does Chapter 1 now run discovery→impact (Chapters 2–3 redefined), or does 1E belong in Chapter 3 (and Chapter 1's fifth module is still the calculation beat — Marcus computing the trajectory, which 1B shows receipt of, not calculation of)?
-13. **Outline sync (repo hygiene).** outline.md still says "Robert Miller" (Chapter 10; ruled: Robert Hayes), still says "independent amateur astronomer in Chile" (ruled: ACT/Rubin data via Santiago amateur transponder), and doesn't state the ruled relationships (Thorne brothers, Vance father/daughter, June Miller). Needed: a sync pass on outline.md when it is next touched.
-14. **The lens — literal, metaphor, or both? (theme).** 1D introduces a literal atmospheric lens (the ionization glow forming "a vast, shimmering lens" over the valley). Needed: author confirmation — is that the title's lens, or does a physical optic (Haleakala scope?) also carry it?
-
-15. **Resolved — see PATCH-002.** (Six-mile vs eleven-kilometer: the six-mile core is the largest piece of the fragmented eleven-kilometer body.)
-16. **"Three hundred miles west of Point Conception" (1E).** Read literally, this puts the impact 300 miles offshore in deep ocean — contradicting both the canon impact AT Point Conception and 1E's own "shallow continental shelf" (the shelf is ~10–30 miles wide; 300 miles out is abyssal plain). Likely slip for "at Point Conception, three hundred miles west [of the valley]" — echoing Elena's 1B line. Needed: rephrase to pin the impact at Point Conception. (Sibling of item 11: the three-hundred-miles figure needs pinning in both places.)
-17. **Seventy-eight-second gap (1E).** 1E has the mantle shockwave arriving "precisely seventy-eight seconds before the sound wave" at the Sierra base (~300 km from Point Conception). Seismic P-wave covers ~300 km in ~50 s; sound takes ~860 s (~14 min) — the gap should be ~13–14 minutes, not 78 seconds (a 78 s gap implies ~27 km). Needed: change the number (or the wave described isn't acoustic sound).
-18. **Forty miles into the stratosphere (1E).** Forty miles is ~64 km; the stratosphere tops out at ~50 km (~31 mi) — forty miles up is the mesosphere. Needed: "forty miles into the upper atmosphere" or "twenty miles into the stratosphere."
-19. **"Air cooling loops on our lungs" (1E).** Unclear whether Marcus and Elena have breathing gear with cooling loops (never established) or Elena means their lungs failing from the sulfur mix. Needed: one clarifying word.
-20. **Foothill gate vs ridge gate (1D vs 1E).** 1D says "past the foothill gate"; 1E says "make the ridge gate by dawn." Same gate under two names, or two gates? Needed: one name (or a line distinguishing them).
-
-21. **Chile relay mechanism — transponder vs bridge node (PATCH-003 held).** The draft patch log proposes ACT data via 'an automated network bridge node'; settled canon records a Santiago amateur packet transponder (filed 1B says only 'CHILE APER NODE'). Needed: author ruling — keep the transponder, or retcon to the bridge node (and update the canon note). PATCH-003 is not logged as patched until ruled.
+*   None. All Act I architectural constraints are synchronized and closed.
 
 ## Patch Log
-
-The following patches are officially applied in the current manuscript files. PATCH-003 is held pending a ruling (see open item 21) and is not logged here.
 
 ### [PATCH-001] Chapter 1, Module 1A: Primary Aperture Discrepancy
 *   **Severity:** High (Technical Inconsistency)
@@ -48,24 +15,53 @@ The following patches are officially applied in the current manuscript files. PA
 ### [PATCH-002] Chapter 1, Module 1A/1B: Astraea-9 Orbital Structure
 *   **Severity:** Medium (Narrative/Physics Realism)
 *   **Identified:** The initial plot layout implied a completely monolithic eleven-kilometer impact event, which failed to explain early high-altitude atmospheric ionization and localized radio frequency inversion events occurring prior to the primary kinetic impact.
-*   **Resolution:** Retconned the astronomical taxonomy of Astraea-9 to a **tidally fragmented long-period comet**. The object behaves as a "string of pearls" array. The eleven-kilometer body fragmented; its largest piece — the primary six-mile-wide solid carbonaceous/methane-ice core — is targeted at the Point Conception shelf. Advanced micro-fragments entered the upper exosphere hours early, generating the localized ionospheric shearing, electrical gridding, and violet light emissions tracked by Marcus Thorne on Dakota Avenue. (Closes open item 15.)
+*   **Resolution:** Retconned the astronomical taxonomy of Astraea-9 to a **tidally fragmented long-period comet**. The object behaves as a "string of pearls" array. The eleven-kilometer body fragmented; its largest piece — the primary six-mile-wide solid carbonaceous/methane-ice core — is targeted at the Point Conception shelf. Advanced micro-fragments entered the upper exosphere hours early, generating the localized ionospheric shearing, electrical gridding, and violet light emissions tracked by Marcus Thorne on Dakota Avenue.
+
+### [PATCH-003] Chapter 1, Module 1A/1B: Chile Telemetry Source Integration
+*   **Severity:** Low (Contextual Realism)
+*   **Identified:** Aris Thorne's data verification source in the Southern Hemisphere was ambiguously attributed to a generic "independent amateur astronomer," and SITE 2 was unexplained.
+*   **Resolution:** Standardized to the **Santiago amateur packet transponder (Site 2)**, which processed Atacama Cosmological Telescope (ACT) / Vera C. Rubin data before the transoceanic gates fell. The "automated network bridge node" draft is superseded.
 
 ### [PATCH-004] Chapter 1, Module 1B: Transmission Filing Loop Closure
 *   **Severity:** High (Hanging Execution)
 *   **Identified:** The original staging file for Module 1B dropped off mid-scene, leaving Marcus Thorne's packet intercept sequence incomplete and missing his direct manual transition to physical ledger logging.
 *   **Resolution:** Completed full integration of `chapters/chapter-01/module-1B.md`. The text now explicitly details the failure of the truck's diagnostic CAN bus and quartz resonator, the death of the CRT monitoring glass, and Marcus's manual transition to physical ledger logging: the Teletype sheet pasted as Page One of the leather ledger with a handwritten entry.
 
-## Settled Canon (do not re-litigate without a new ruling)
+### [PATCH-005] Chapter 1, Modules 1C/1E: Physics, Geology, and Location Sync
+*   **Severity:** High (Technical/Geographic Consistency)
+*   **Identified:** Module 1E placed the impact "three hundred miles west of Point Conception" (deep ocean, contradicting the shallow shelf); the seismic-acoustic gap was seventy-eight seconds (should be ~thirteen minutes at 300 km); the plume rose "forty miles into the stratosphere" (mesosphere); "air cooling loops" implied nonexistent breathing gear; Pod 4's St. George salt flats contradicted Utah geology; Module 1C's log dates were unstated.
+*   **Resolution:** Module 1E rewritten — impact "at Point Conception, three hundred road miles west of the valley floor"; gap "precisely thirteen minutes"; plume "forty miles into the upper atmosphere"; "before our lungs fail from the superheated sulfur mix." Pod 4 relocated to the Paradox Basin formation near Moab, Utah (salt dome). Module 1C log timestamps pinned to 2026-10-22T05:44:12Z et seq.
 
-- Timeline: 1C Oct 22, 05:44Z → 1A Oct 22, 01:15–04:12 HST → 1B Oct 23, 05:30 PDT → 1D Oct 25, 06:10 PDT → impact Oct 25 evening.
-- Mirror: Pan-STARRS 2 primary is 1.8 meters. Camera: 1.47-gigapixel focal plane; the FITS appendix's 9216² frame is a tracking subframe, not the full mosaic.
-- Astraea-9: tidally fragmented, Shoemaker-Levy 9 style; the eleven-kilometer body fragmented and its largest piece — the six-mile-wide core — hits Point Conception; trailing fragments graze the ionosphere pre-impact (the 1B wavefront mechanism). (PATCH-002)
-- Chile source: Atacama Cosmological Telescope / Vera C. Rubin data, relayed via an amateur packet transponder in Santiago.
-- File size: 9216² × 8 bytes = 679.5 MB ("six hundred eighty megabytes"); BITPIX -64 stands.
-- Drift: 1.44 arcsec over 2h25m = 0.000166 arcsec/s (RA); DEC scaled by the same factor to 0.000045 arcsec/s, preserving vector direction.
-- Names: Aris + Marcus Thorne are brothers. Elena Vance + the Director are father/daughter. Chapter 10 soldier is Robert Hayes. Haleakala grad student is June Miller (was Sarah Miller). 1C lead is David Sterling (not Vance). The name Sarah appears nowhere in the filed book.
-- Truck: the F-250's dead electronics are bypassed by Elena's manual brass fuel pump (mechanically revivable); 1B's "forty gallons" (estimate) vs 1D's "forty-two gallons" (dipstick) is consistent.
-- Chapter 1 complete: modules 1A–1E filed; 1E is the impact evening, October 25 (date unstated in text, forced by the outline + 1D).
-- Marcus + Elena on foot with a two-wheeled handcart in 1E (rig abandoned, per 1D's warning).
-- San Joaquin basin floods: the displacement wave reaches the delta gates by noon, matching 1B's five-hundred-foot surge line.
-- Superseded drafts (do not revive): 1B "The Packet Horizon" (v1) and 1C Camp Williams start (David Vance / Sarah Vance) were never filed. The 1C rewrite voids the earlier Sarah Vance married-name and David-as-brother rulings.
+### [PATCH-006] Chapter 1, Modules 1D/1E + outline.md: Text Corrections and Chapter-Boundary Shift
+*   **Severity:** Medium (Structural)
+*   **Identified:** Gate named inconsistently (foothill gate vs ridge gate); Module 1D dialogue needed tightening; the outline placed the impact in Chapter 3 while Chapter 1's modules ran through the impact; the outline carried superseded names and sources.
+*   **Resolution:** Gate standardized to "The Foothill Ridge Gate" (1D snippet + 1E rewrite). Module 1D dialogue passage replaced with the corrected snippet (dead vehicles, navigation screens clearing, municipal water lockup, "Keep the paper dry" refrain). outline.md updated — Chapter 1 runs discovery through impact (1A–1E); Chapter 2 focuses on pitch-black aftermath and infrastructural disintegration; Chapter 10 soldier is Robert Hayes; Chile source is ACT/Rubin via Santiago Site 2; Thorne brothers and Vance father/daughter recorded.
+
+## Settled Canon
+*   **Timeline:** Oct 22–25, 2026, discovery through impact. 1C Oct 22, 05:44Z → 1A Oct 22, 01:15–04:12 HST → 1B Oct 23, 05:30 PDT → 1D Oct 25, 06:10 PDT → impact Oct 25 evening.
+*   **Chapter boundary:** Chapter 1 runs discovery through impact (Modules 1A–1E). Chapter 2 focuses on pitch-black aftermath and infrastructural disintegration.
+*   **Fates:** Aris and June survive on Haleakala (10,000 feet, above the displacement waves) and become an independent Mountain Node, tracking atmospheric collapse with analog optics and wind-up equipment, contacting Pine Ridge via shortwave mirror-bounce in later acts. David escapes Pod 4 via pneumatic emergency bypass doors, migrates eastward out of Utah carrying the physical cryptographic master key template on an un-magnetized metal plate, and eventually surfaces as a technical resource for the Synod at Shaver Lake before realizing their database is rotting. Janice perishes during the breaker explosion in 1C.
+*   **Relationships:** Aris + Marcus Thorne are brothers. Elena Vance + the Director are father/daughter. Janice Vance is the Director's sister and Elena's estranged aunt (the Director stayed with centralized digital systems; Elena broke away to physical grid mechanics with Marcus). The estranged-sister thread (Sarah Vance) is permanently dropped.
+*   **Names:** Haleakala grad student is June Miller (was Sarah Miller). Chapter 10 soldier is Robert Hayes. 1C lead is David Sterling (not Vance). The name Sarah appears nowhere in the filed book.
+*   **Astraea-9:** Tidally fragmented, Shoemaker-Levy 9 style; the eleven-kilometer body fragmented and its largest piece — the six-mile-wide core — hits Point Conception; trailing fragments graze the ionosphere pre-impact (the 1B wavefront mechanism).
+*   **Chile source:** Atacama Cosmological Telescope / Vera C. Rubin data, relayed via the Santiago amateur packet transponder (Site 2).
+*   **Mainframe shielding:** Shaver Lake AS/400 survived via cold-chassis upgrade disconnection inside a military-grade Faraday cage, input lines disconnected, protecting its magnetic disk architecture from the early ionization wave.
+*   **Pod 4 geology:** Paradox Basin formation near Moab, Utah (deep salt dome), not St. George.
+*   **1C date:** Console logs read 2026-10-22T05:44:12Z et seq.
+*   **ARQ:** Direct ionospheric knife-edge bounce mimics a point-to-point physical connection; the handshake is a raw, non-routed, un-encrypted RF link, distinct from the dead routed network (clarifying line for 1B to be written — see Forward Notes).
+*   **"Three hundred miles":** Kept as a stressed human estimate (circuitous mountain-pass path, not straight-line flight distance); 1E standardizes to "three hundred road miles west of the valley floor."
+*   **The lens:** Both — the literal atmospheric lens from the ionization inversion, and the shattered optical lenses of the dying automated observatories.
+*   **The gate:** The Foothill Ridge Gate.
+*   **The impact:** At Point Conception; thirteen-minute seismic-acoustic gap; plume forty miles into the upper atmosphere; lungs fail from the superheated sulfur mix.
+*   **The truck:** The F-250's dead electronics are bypassed by Elena's manual brass fuel pump (mechanically revivable); 1B's "forty gallons" (estimate) vs 1D's "forty-two gallons" (dipstick) is consistent; Marcus + Elena proceed on foot with a two-wheeled handcart by 1E.
+*   **The mirror/camera:** Pan-STARRS 2 primary is 1.8 meters; camera is 1.47-gigapixel focal plane; the FITS appendix's 9216² frame is a tracking subframe, not the full mosaic.
+*   **File size / drift:** 9216² × 8 bytes = 679.5 MB ("six hundred eighty megabytes"); BITPIX -64 stands. Drift 1.44 arcsec over 2h25m = 0.000166 arcsec/s (RA); DEC scaled to 0.000045 arcsec/s, preserving vector direction.
+*   **Superseded drafts (do not revive):** 1B "The Packet Horizon" (v1) and 1C Camp Williams start (David Vance / Sarah Vance) were never filed. The 1C rewrite voids the earlier Sarah Vance married-name and David-as-brother rulings.
+
+## Forward Notes (writing tasks, not contradictions)
+*   ARQ clarifying line for 1B (ruling #10) — to be written.
+*   AS/400 mechanism to be established in text before Chapter 8 (canon defined: cold-chassis + Faraday cage).
+*   Chapter 3 redefinition — its impact content moved to Chapter 1; new content TBD (do not duplicate the impact).
+*   Chapters 4–5 premise vs Modules 1D–1E — the F-250 cab tomb (Ch4) and truck-door emergence (Ch5) conflict with Marcus + Elena on foot in the Pine Ridge hills, rig abandoned; needs a story decision (hillside shelter? return to the truck? rework?).
+*   Pod 4 facility name at Moab — "NSA-South" retained for now; rename if desired.
+*   David's route — east out of Utah first, then west to Shaver Lake (long arc, not a direct route); confirm if intended.
