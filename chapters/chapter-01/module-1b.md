@@ -4,7 +4,7 @@
 
 ### Module 1B: The Dakota Avenue Intercept
 
-The air along Dakota Avenue smelled of sulfur and parched dirt, the heavy, alkaline odor of the San Joaquin Valley’s dust bowl cloying the back of Marcus Thorne's throat. It was 05:30 PDT. The sun hadn't broken the horizontal shelf of the Sierra Nevada to the east, but the sky above the peaks had already bled into an unsettling, neon-bright magenta.
+The air along Dakota Avenue smelled of sulfur and parched dirt, the heavy, alkaline odor of the San Joaquin Valley’s dust bowl cloying the back of Marcus Thorne's throat. It was 05:30 PDT on October 23. The sun hadn't broken the horizontal shelf of the Sierra Nevada to the east, but the sky above the peaks had already bled into an unsettling, neon-bright magenta.
 
 Marcus adjusted the mechanical dial on a military-surplus, heavy-cast aluminum antenna tuner bolted to the sidewall of his Ford’s truck bed. His fingers were stiff from the pre-dawn autumn chill. The F-250’s idling engine sputtered periodically, its fuel injectors fighting against an erratic control signal from the onboard computer chassis.
 
