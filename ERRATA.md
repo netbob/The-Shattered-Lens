@@ -94,6 +94,6 @@ This document tracks technical contradictions, structural retcons, and mechanica
 *   ARQ clarifying line for 1B (ruling #10) — written Oct 28, 2026: ARQ connected-mode paragraph inserted into module-1B.md between the 'It's Aris' paragraph and the 'Teletype shattered' line.
 *   AS/400 mechanism to be established in text before Chapter 8 (canon defined: cold-chassis + Faraday cage).
 *   Chapter 3 redefinition — complete: 'The Ash Migration' (Modules 3A–3E), outline synced — see PATCH-007.
-*   Chapter 5 premise vs Modules 1D–1E — the truck-door emergence (Ch5) conflicts with Marcus + Elena on foot in the Pine Ridge hills, rig abandoned; needs a story decision (hillside shelter? return to the truck? rework?). (Chapter 4's F-250 cab tomb resolved by the Hillside Vaults retitle — see PATCH-007.)
+*   Chapter 5 premise vs Modules 1D–1E — resolved Oct 28, 2026: outline Chapters 5–6 rewritten (Pod 1 blast-door emergence; F-250 salvaged for parts, not lived in) — see outline.md.
 *   Pod 4 facility name at Moab — "NSA-South" retained for now; rename if desired.
 *   David's route — east out of Utah first, then west to Shaver Lake (long arc, not a direct route); confirm if intended.

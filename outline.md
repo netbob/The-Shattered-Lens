@@ -37,20 +37,18 @@
 *   **Module 4C (The Gravity Escape):** Aris and June fight a seized clockwork tracking drive at the Pan-STARRS 2 dome on October 30, holding the 1.8-meter telescope on the Pegasus sector by hand.
 
 ### Chapter 5: The Ash Walkers
-
-- **Narrative Focus:** The emergence into the monochrome ruins of the San Joaquin Valley and the migration to the hills.
-- **Key Developments:**
-  - Breaking through the dried ash crust of the truck door, Marcus and Elena discover a landscape completely stripped of color and vegetation. The almond orchards are broken matchsticks buried in gray silt.
-  - They encounter the first survivors—human shapes moving mechanically through the dust, clutching useless, dead consumer electronics like icons of a vanished religion.
-  - Marcus rejects fleeing to Fresno or Clovis proper, knowing the high-density populations will tear themselves apart waiting for an automated rescue that cannot be coordinated. They point their boots toward Pine Ridge.
+*   **Narrative Focus:** The emergence into the monochrome winter of the San Joaquin Valley and the immediate resource migration.
+*   **Key Developments:**
+    *   Breaking through the frozen ice crust of the Pod 1 subterranean blast doors, Marcus and Elena emerge into a landscape completely stripped of color and vegetation by the impact winter. The pine forests of the ridge are broken matchsticks buried in gray volcanic silt.
+    *   They lead a tactical foraging party back down toward the Foothill Ridge Gate to salvage critical components from the abandoned F-250, recovering the mechanical fuel pump matrix and vehicle battery plates before the salt tide seals the lower logging track.
+    *   Marcus rejects attempting any transit toward Fresno or Clovis proper, knowing the high-density populations will have fractured completely after the municipal utilities entered permanent logic lock. They point their boots back toward the hardened SAC structures.
 
 ### Chapter 6: Securing the Vault
-
-- **Narrative Focus:** The occupation and restoration of the legacy Strategic Air Command radar base at Pine Ridge.
-- **Key Developments:**
-  - Arrival at the concrete bunkers of the Cold War-era facility. They find it structurally intact due to its overpressure design, but filled with freezing mud and dead leaves.
-  - Elena uses primitive tools and wire to bypass the fried solid-state control circuits of the site's deep well pump, rigging a mechanical hand crank to draw fresh, ash-free water.
-  - Marcus cleans out the old map room, lays down the leather-bound accounting books stolen from the county clerk's ruins, and establishes the "Central Desk."
+*   **Narrative Focus:** The formal stabilization and long-term reinforcement of the legacy Pine Ridge facility.
+*   **Key Developments:**
+    *   The structural reinforcement of the deep surface shafts to house the remaining 532 registered refugees safely beneath the frost floor line.
+    *   Elena uses primitive tools, copper telephone wire, and manual leverage to bypass the frozen solid-state control circuits of the site's deep well pump, rigging a permanent mechanical hand crank to draw fresh, ash-free water.
+    *   Marcus establishes the permanent Central Desk inside the map room, organizing the leather-bound accounting books into a structural baseline registry for the new scribal society.
 
 ## Act III: The Kingdom of the Brass Cog (The Institutional War)
 
