@@ -81,6 +81,10 @@ This document tracks technical contradictions, structural retcons, and mechanica
 *   **Severity:** Medium (Structural Continuity)
 *   **Resolution:** Documented the creation of `chapters/chapter-07/module-7d.md` to bridge David Sterling's capture along the canal corridor into Module 8A.
 
+### [PATCH-016] Chapter 8/9: Telemetry Foundation and Script Integration
+*   **Severity:** Medium (Technical Framework Alignment)
+*   **Resolution:** Created `chapters/chapter-08/module-8e.md` to complete the un-filed Chapter 8 structural spine. Corrected the Shaver Lake foundation to a **granite foundation** in `chapters/chapter-09/module-9b.md` and explicitly mapped the transpacific telemetry monitor to the **Santiago amateur packet transponder (Site 2)**.
+
 ## Settled Canon
 *   **Timeline:** Oct 22–25, 2026, discovery through impact. 1C Oct 22, 05:44Z → 1A Oct 22, 01:15–04:12 HST → 1B Oct 23, 05:30 PDT → 1D Oct 25, 06:10 PDT → impact Oct 25 evening.
 *   **Chapter boundary:** Chapter 1 runs discovery through impact (Modules 1A–1E). Chapter 2 focuses on pitch-black aftermath and infrastructural disintegration.
