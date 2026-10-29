@@ -27,6 +27,8 @@ RECORD THIS MANUALLY MARCUS
 
 Marcus grabbed a graphite pencil from the truck's dashboard, his hand dropping to the margins of the yellowed paper roll as the mechanical keys hammered down. "It's Aris," he yelled over the mechanical clatter of the machine. "He's tunneling out of Haleakala using the old Hawaiian inter-island emergency ionospheric bounce. The main fiber cables under the Pacific must be dropping their data packets."
 
+The transmission didn't rely on the broken global routing tables or public key verification loops. The radio link used pure Automatic Repeat reQuest (ARQ) connected mode over a raw, un-routed high-frequency carrier. It was a point-to-point physical handshake directly bouncing off the knife-edge of the ionized ionosphere—a non-routed RF link completely independent of the dying internet backbone infrastructure.
+
 The Teletype shattered into a frantic tempo, its ribbon carriage jumping spaces before spitting out the raw astrometric telemetry confirmed by the Atacama data bridge:
 
 OBJ: A-9 // TIDALLY FRAGMENTED COMET CORE // COLLAPSED ALBEDO

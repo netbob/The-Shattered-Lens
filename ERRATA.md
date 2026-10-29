@@ -86,7 +86,7 @@ This document tracks technical contradictions, structural retcons, and mechanica
 *   **Population distribution (Oct 28, 2026 ruling):** The eighty-two in the Pod 1 map room are the core logistical crew, administrative staff, and young families housed directly around the Central Desk. The remaining 532 registered refugees are distributed throughout the facility's extended layout — the deep surface shafts, the legacy missile silos, and the auxiliary equipment decks.
 
 ## Forward Notes (writing tasks, not contradictions)
-*   ARQ clarifying line for 1B (ruling #10) — to be written.
+*   ARQ clarifying line for 1B (ruling #10) — written Oct 28, 2026: ARQ connected-mode paragraph inserted into module-1B.md between the 'It's Aris' paragraph and the 'Teletype shattered' line.
 *   AS/400 mechanism to be established in text before Chapter 8 (canon defined: cold-chassis + Faraday cage).
 *   Chapter 3 redefinition — complete: 'The Ash Migration' (Modules 3A–3E), outline synced — see PATCH-007.
 *   Chapter 5 premise vs Modules 1D–1E — the truck-door emergence (Ch5) conflicts with Marcus + Elena on foot in the Pine Ridge hills, rig abandoned; needs a story decision (hillside shelter? return to the truck? rework?). (Chapter 4's F-250 cab tomb resolved by the Hillside Vaults retitle — see PATCH-007.)
