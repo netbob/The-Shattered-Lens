@@ -17,6 +17,8 @@ VERIFIED BY: ELENA VANCE, KEEPER OF THE GRID
 *   [ITEM-013] Commercial Cold Chisel Array: Three (3) units, standard 8-inch drop-forged tool steel, hexagonal stock. Recovered from civilian vehicle toolkits at the gate heap pile [3D, 5B]. Distributed to the shaft labor crew for structural extraction.
 *   [ITEM-014] Box Wrench: Legacy drop-forged 1/2-inch box wrench, carried in Marcus Thorne's coat pocket. Used to free the terminal lugs on the F-250's auxiliary battery plates, bypassing the shorted main wiring harness. (Re-indexed from ITEM-013: ITEM-013 reassigned to the commercial cold chisel array.)
 
+*   [ITEM-015] Registry Book Press: One (1) unit, twenty-pound cast-iron slab with a machined steel screw-thread handle. Cold War legacy logistics room fixture. Used as a structural weight for manual page-binding and as a baseline close-quarters defensive asset.
+
 #### II. FLUID TRANSFER & CALORIC STORAGE
 *   [ITEM-005] Auxiliary Liquid Fuel: Forty-two (42) gallons of triple-filtered No. 2 off-road diesel oil. Volume verified via notched wooden dipstick measurements along tank lateral. Stored in two-inch welded steel jerrycans.
 *   [ITEM-006] Manual Fuel Siphon: Rotary vane hand pump, cast-iron housing with a nitrile rubber seal matrix. Flow rate calibrated to 10 gallons per 120 mechanical crank rotations.
