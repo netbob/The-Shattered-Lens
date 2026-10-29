@@ -22,21 +22,17 @@
   - The Director (Vance, Elena's father and the future antagonist) consolidates the Shaver Lake AS/400 — decoupled from the grid for a cold-chassis upgrade inside a Faraday cage at impact — as the authoritative database for the collapsing region.
   - Marcus continues copying critical technical specifications into local county accounting ledgers with a fountain pen as the towns go dark, the paper becoming the only record that survives.
 
-### Chapter 3: The Crimson Horizon
-
-- **Narrative Focus:** Impact moved to Chapter 1 (Module 1E). New Chapter 3 content TBD — do not duplicate the impact.
-- **Key Developments:**
-  - TBD — the Dakota Avenue viewpoint and F-250 oil-pan beats are superseded by Modules 1D–1E (departure on foot, Pine Ridge hills).
+### Chapter 3: The Ash Migration
+*   **Module 3A (The Delta Back-Surge):** The Point Conception impact drives a hydraulic river inversion, turning the San Joaquin basin into a closed inland muddy sea.
+*   **Module 3B (The Eastward Inversion):** David Sterling navigates the slot canyons of the San Rafael Swell on foot, tracking his heading via mechanical chronometer forty road miles west of Green River.
+*   **Module 3C (The Spectral Inversion):** Aris uses a 1912 lithographed star spectrograph chart to verify the chemical transition of the stratosphere into a formaldehyde haze.
+*   **Module 3D (The Registry Line):** Marcus and Elena establish the physical ledger verification line at the Foothill Ridge Gate, processing the first wave of refugees (Robert Hayes).
+*   **Module 3E (The First Ledger Lock):** The closure of Chapter 3; the full codification of the Registry rules as the valley floor completes its submersion with 614 recorded names.
 
 ## Act II: The Great Disconnection (The Immediate Aftermath)
 
-### Chapter 4: Three Days in the Tomb
-
-- **Narrative Focus:** Survival inside the cab of the F-250 during the atmospheric inversion layer.
-- **Key Developments:**
-  - The pitch-black descent of ten million tons of pulverized ocean salt, granite, and vaporized sea water. The air turns into a pressurized, superheated steam matrix that bakes the valley floor before dropping into a sulfurous freezing winter.
-  - Inside the cab, Marcus and Elena ration a single five-gallon jerrycan of water and stale tortillas. They listen to the physical death of the valley outside through the groans of the shifting earth and the absolute silence of the radio bands.
-  - Marcus uses his mechanical artillery stopwatch to track time, realizing the world has reset its chronological clock to zero.
+### Chapter 4: The Hillside Vaults
+*   **Module 4A (The Frost Floor):** The transition into Pod 1 of the Pine Ridge facility as the impact winter drops temperatures; eighty-two survivors anchor the Central Desk while the remaining 532 occupy the shafts.
 
 ### Chapter 5: The Ash Walkers
 

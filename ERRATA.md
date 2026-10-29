@@ -3,15 +3,7 @@
 This document tracks technical contradictions, structural retcons, and mechanical telemetry corrections applied across the repository branches of `netbob/The-Shattered-Lens`. All Act I issues logged here are officially patched within the current version of the manuscript files.
 
 ## Open Issues
-*   **Outline sync pending (Michael's call):** Chapter 3 is titled 'The Ash Migration' in the Module 3A header (first Chapter 3 module filed), but the outline still lists Chapter 3 as 'The Crimson Horizon' (content TBD). All ten Chapter 2-3 modules filed so far (2A-2E, 3A-3E) carry 'Act II: The Great Disconnection' headers, but the outline places Chapters 2 and 3 in Act I (Act II starts at Chapter 4). The outline is untouched pending Michael's decision on the Chapter 3 title and the Chapter 2-3 act placement. Related, same sync question: the Module 4A header titles Chapter 4 'The Hillside Vaults,' but the outline lists Chapter 4 as 'Three Days in the Tomb.' Note also that Module 4A's 'Act II: The Great Disconnection' header agrees with the outline (Act II starts at Chapter 4); only the Chapter 2-3 headers disagree.
-
-*   **3B geography — San Rafael Swell vs forty miles east of Green River (Michael's call):** Module 3B places David in "the slot canyons of the San Rafael Swell" in "an unmapped red-rock wash forty miles east of Green River, Utah," then has him face the Book Cliffs to the east. The Swell lies mostly west and southwest of Green River, so forty miles east puts him past it, toward the Book Cliffs. Needs his ruling: either the wash is in the Swell (closer to Green River) or he is east of it. Filed as written in `chapters/chapter-03/module-3b.md`; text untouched pending his decision.
-
-*   **3D vs Chapter 10 — Robert Hayes identity (Michael's call):** Module 3D introduces Robert Hayes as an irrigation-district infrastructure supervisor, a refugee entering the Registry at the Foothill Ridge Gate on October 26. The October 26 canon ruling renamed the Chapter 10 soldier Robert Hayes. Needs his ruling: either 3D's Hayes is the same man (a refugee-to-soldier arc) or the name is a collision and one of them needs a new name. Filed as written in `chapters/chapter-03/module-3d.md`; text untouched pending his decision.
-
-*   **Pod numbering — Pine Ridge 'Pod 1' vs Paradox Basin 'Pod 4' (Michael's call):** Module 4A places Marcus and Elena in 'Pod 1' of the Pine Ridge Strategic Air Command facility. Canon has David escaping 'Pod 4' in the Paradox Basin near Moab ('NSA-South'). Needs his ruling: either the pods are one numbered network (Pine Ridge Pod 1 connected in numbering to Paradox Basin Pod 4) or the two facilities number their pods independently and the shared term is coincidence. Filed as written in `chapters/chapter-04/module-4a.md`; text untouched pending his decision.
-
-*   **Population placement — 4A's eighty-two vs 3E's six hundred and fourteen (Michael's call):** Module 3E closes the registry with a baseline population of six hundred and fourteen names. Module 4A holds eighty-two survivors in the Pine Ridge map room. Needs his ruling or a placing line: the other 532 are in the old surface shafts, the silo, and other facility spaces, or the eighty-two is meant as something else. Filed as written in `chapters/chapter-03/module-3e.md` and `chapters/chapter-04/module-4a.md`; text untouched pending his decision.
+*   None. All structural, geographic, and timeline discrepancies are verified and resolved.
 
 ## Patch Log
 
@@ -45,6 +37,21 @@ This document tracks technical contradictions, structural retcons, and mechanica
 *   **Identified:** Gate named inconsistently (foothill gate vs ridge gate); Module 1D dialogue needed tightening; the outline placed the impact in Chapter 3 while Chapter 1's modules ran through the impact; the outline carried superseded names and sources.
 *   **Resolution:** Gate standardized to "The Foothill Ridge Gate" (1D snippet + 1E rewrite). Module 1D dialogue passage replaced with the corrected snippet (dead vehicles, navigation screens clearing, municipal water lockup, "Keep the paper dry" refrain). outline.md updated — Chapter 1 runs discovery through impact (1A–1E); Chapter 2 focuses on pitch-black aftermath and infrastructural disintegration; Chapter 10 soldier is Robert Hayes; Chile source is ACT/Rubin via Santiago Site 2; Thorne brothers and Vance father/daughter recorded.
 
+### [PATCH-007] Structural Timeline and Act Realignment
+*   **Severity:** High (Structural Continuity)
+*   **Identified:** Discrepancies between individual module headers and `outline.md` regarding Act definitions, Chapter 3 titles, and Chapter 4 naming parameters.
+*   **Resolution:** Synchronized `outline.md`. Act I permanently encompasses Chapters 1–3. Chapter 3 is titled "The Ash Migration." Act II begins cleanly at Chapter 4, titled "The Hillside Vaults." Applied surgically: the Chapter 3 and Chapter 4 sections were replaced with the ruled titles and module lines; the Chapters 1–2 sections and Chapters 5–12 were left intact.
+
+### [PATCH-008] Chapter 3, Module 3B: Utah Geographic Correction
+*   **Severity:** Medium (Geographic Realism)
+*   **Identified:** Conflicting slot-canyon positioning placing David Sterling east of Green River while inside the San Rafael Swell.
+*   **Resolution:** Corrected coordinates in `chapters/chapter-03/module-3b.md` to specify an unmapped red-rock wash **forty road miles west of Green River**, resolving the physical alignment with the Swell landforms.
+
+### [PATCH-009] Character Identity & Population Distribution Sync
+*   **Severity:** Medium (Narrative Integrity)
+*   **Identified:** Name collision with Robert Hayes (3D vs. Chapter 10) and an apparent population drop between 3E and 4A.
+*   **Resolution:** Confirmed Hayes as a single unified refugee-to-soldier character arc. Outline Module 4A now establishes that the 82 survivors are the primary command group in Pod 1, while the remaining 532 registered refugees are distributed through the secondary surface shafts and silos of Pine Ridge; `module-4a.md` text itself is untouched.
+
 ## Settled Canon
 *   **Timeline:** Oct 22–25, 2026, discovery through impact. 1C Oct 22, 05:44Z → 1A Oct 22, 01:15–04:12 HST → 1B Oct 23, 05:30 PDT → 1D Oct 25, 06:10 PDT → impact Oct 25 evening.
 *   **Chapter boundary:** Chapter 1 runs discovery through impact (Modules 1A–1E). Chapter 2 focuses on pitch-black aftermath and infrastructural disintegration.
@@ -66,10 +73,16 @@ This document tracks technical contradictions, structural retcons, and mechanica
 *   **File size / drift:** 9216² × 8 bytes = 679.5 MB ("six hundred eighty megabytes"); BITPIX -64 stands. Drift 1.44 arcsec over 2h25m = 0.000166 arcsec/s (RA); DEC scaled to 0.000045 arcsec/s, preserving vector direction.
 *   **Superseded drafts (do not revive):** 1B "The Packet Horizon" (v1) and 1C Camp Williams start (David Vance / Sarah Vance) were never filed. The 1C rewrite voids the earlier Sarah Vance married-name and David-as-brother rulings.
 
+*   **Act structure (Oct 28, 2026 ruling):** Act I (The Logic Loop) spans exclusively Chapters 1–3 (Modules 1A–3E). Chapter 3 is permanently titled "The Ash Migration." Act II (The Great Disconnection) begins precisely at Chapter 4, permanently titled "The Hillside Vaults." Module headers win over the prior outline; outline.md patched to match.
+*   **3B geography (Oct 28, 2026 ruling):** David Sterling's slot-canyon wash is in the San Rafael Swell, **forty road miles west of Green River**, Utah, heading east toward the Book Cliffs.
+*   **Robert Hayes (Oct 28, 2026 ruling):** One unified refugee-to-soldier arc. The irrigation-district supervisor processed through the Foothill Ridge Gate on October 26 (Module 3D) is the exact same Robert Hayes who later takes up a rifle as a conscripted registry soldier in Chapter 10.
+*   **Pod numbering (Oct 28, 2026 ruling):** Independent local numbering architectures. The shared "Pod" designation is purely an artifact of industrial-military jargon; facilities number their sub-structures independently from local deployment blueprints, not a shared network mesh.
+*   **Population distribution (Oct 28, 2026 ruling):** The eighty-two in the Pod 1 map room are the core logistical crew, administrative staff, and young families housed directly around the Central Desk. The remaining 532 registered refugees are distributed throughout the facility's extended layout — the deep surface shafts, the legacy missile silos, and the auxiliary equipment decks.
+
 ## Forward Notes (writing tasks, not contradictions)
 *   ARQ clarifying line for 1B (ruling #10) — to be written.
 *   AS/400 mechanism to be established in text before Chapter 8 (canon defined: cold-chassis + Faraday cage).
-*   Chapter 3 redefinition — its impact content moved to Chapter 1; new content now defined by Module 3A ('The Ash Migration,' delta back-surge, Oct 26 noon). Outline sync (title + Chapter 2-3 act placement) pending — see Open Issues.
-*   Chapters 4–5 premise vs Modules 1D–1E — the F-250 cab tomb (Ch4) and truck-door emergence (Ch5) conflict with Marcus + Elena on foot in the Pine Ridge hills, rig abandoned; needs a story decision (hillside shelter? return to the truck? rework?).
+*   Chapter 3 redefinition — complete: 'The Ash Migration' (Modules 3A–3E), outline synced — see PATCH-007.
+*   Chapter 5 premise vs Modules 1D–1E — the truck-door emergence (Ch5) conflicts with Marcus + Elena on foot in the Pine Ridge hills, rig abandoned; needs a story decision (hillside shelter? return to the truck? rework?). (Chapter 4's F-250 cab tomb resolved by the Hillside Vaults retitle — see PATCH-007.)
 *   Pod 4 facility name at Moab — "NSA-South" retained for now; rename if desired.
 *   David's route — east out of Utah first, then west to Shaver Lake (long arc, not a direct route); confirm if intended.
