@@ -135,5 +135,7 @@ This document tracks technical contradictions, structural retcons, and mechanica
 
 *   **The Director and Elena (established in text — see Module 8D):** The Director is fully aware of Elena's position at Pine Ridge and of her mechanical preservation of the Registry. He views her not as a lost relative but as an engineering defector who lent corporate network utility knowledge to a scribal collective; his silence on her is calculated, breaking toward the ultimatum scene.
 
+*   **The Shaver Lake Engineer "Miller" (unrelated namesake — see Module 10C):** The junior systems engineer David addresses as "Miller" in Module 10C is an unrelated namesake — a common valley surname trapped on the opposite side of the logic divide — not a blood relative of Arthur, Martha, or June Miller. No lineage link exists. Should a future text module require a hidden blood link, it must earn its entry in the patch log first.
+
 ## Forward Notes (writing tasks, not contradictions)
 *   **NSA-South Facility Naming Parameters:** Open rename decision pending for whenever the Moab/Paradox Basin infrastructure re-surfaces in the text.
