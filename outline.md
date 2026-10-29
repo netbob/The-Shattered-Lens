@@ -34,7 +34,8 @@
 ### Chapter 4: The Hillside Vaults
 *   **Module 4A (The Frost Floor):** The transition into Pod 1 of the Pine Ridge facility as the impact winter drops temperatures; eighty-two survivors anchor the Central Desk while the remaining 532 occupy the shafts.
 *   **Module 4B (The Lithic Thermocline):** David Sterling shelters in a Book Cliffs fissure on October 29 as the impact winter deepens; the steel plate becomes a windbreak against the katabatic cold.
-*   **Module 4C (The Gravity Escape):** Aris and June fight a seized clockwork tracking drive at the Pan-STARRS 2 dome on October 30, holding the 1.8-meter telescope on the Pegasus sector by hand.
+*   **Module 4C (The Gravity Escape):** Aris and June fight a slipping clockwork tracking drive at the Pan-STARRS 2 dome on October 30, holding the 1.8-meter telescope on the Pegasus sector by hand.
+*   **Module 4E (The Baseline Settlement):** The first death inside Pod 1 on November 2 — Arthur Miller's mortality entry closes the registry's first allocation.
 
 ### Chapter 5: The Ash Walkers
 *   **Narrative Focus:** The emergence into the monochrome winter of the San Joaquin Valley and the immediate resource migration.
