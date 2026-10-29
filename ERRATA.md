@@ -72,6 +72,11 @@ This document tracks technical contradictions, structural retcons, and mechanica
 *   **Identified:** Module 4E introduced the illegal character name Sarah Miller, violated the 614-name limit with index 0615, and recorded an unadjusted Zulu timestamp loop for local PDT time occurrences.
 *   **Resolution:** Renamed the widow to **Martha Miller**, establishing her cleanly as June Miller's mother back in the valley floor registry. Re-indexed the death log entry to point directly to Arthur's original registration record (**Index 0412**), and standardized the data format block to a manually tracked local time offset string (**-07:00**). The closing allocation line was updated to match (four-hundred-and-twelve).
 
+### [PATCH-014] Appendix B: Tool Index Collision Resolution
+*   **Severity:** Medium (Data Schema Consistency)
+*   **Identified:** A tool index collision occurred when the three commercial cold chisels were mapped to `[ITEM-013]`, which had already been assigned to the drop-forged 1/2-inch box wrench salvaged in Module 5C.
+*   **Resolution:** Preserved both historical entries. The commercial cold chisel array remains anchored to `[ITEM-013]`. The 1/2-inch drop-forged box wrench has been safely re-indexed down to **`[ITEM-014]`**, with an explicit cross-reference note added to its ledger description to prevent future continuity drift.
+
 ## Settled Canon
 *   **Timeline:** Oct 22–25, 2026, discovery through impact. 1C Oct 22, 05:44Z → 1A Oct 22, 01:15–04:12 HST → 1B Oct 23, 05:30 PDT → 1D Oct 25, 06:10 PDT → impact Oct 25 evening.
 *   **Chapter boundary:** Chapter 1 runs discovery through impact (Modules 1A–1E). Chapter 2 focuses on pitch-black aftermath and infrastructural disintegration.
