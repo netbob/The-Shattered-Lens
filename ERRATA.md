@@ -117,5 +117,11 @@ This document tracks technical contradictions, structural retcons, and mechanica
 
 *   **The Oracle Mainframe Framework (established in text — see Module 8A):** The IBM AS/400 Model 720 survives inside a military-grade Faraday cage (double-interlocked copper mesh on polyethylene blocks) four levels beneath the Shaver Lake hydroelectric station, its input strands severed by spring-loaded guillotines 42 minutes before impact; magnetic platters cold and intact, clock frame reference lost with the Boulder broadcast.
 
+*   **The Steel Plate Lever (established in text — see Modules 7D, 8D):** David Sterling explicitly withholds the un-magnetized tool-steel hex-root template, hidden in its oilcloth sleeve against his ribs; he bargains only with his memory of the hex structures. If the Director's crew obtained the template, they could flash the hard-coded root authorization certificates back into the AS/400's firmware, giving the Synod permanent, unilateral legal dominance over the valley's land deeds.
+
+*   **The Chapter 7 Gap (closed — see Module 7D):** David's transit from the Tavaputs trek (7B) to the Shaver Lake vault (8A) is bridged by Module 7D, "The Intercept Loop": captured on the rim trail by a Shaver Lake line patrol after a shale-skid betrayed his position, carried under guard down the mountain. Correction note: an earlier matrix draft claimed 7D was already filed; a directory check at head showed only 7A, 7B, 7C, 7E, and the cage-construction text in fact lives in 8A. That claim was a schema bug, caught before entering ERRATA; 7D was then written and filed.
+
+*   **The Director and Elena (established in text — see Module 8D):** The Director is fully aware of Elena's position at Pine Ridge and of her mechanical preservation of the Registry. He views her not as a lost relative but as an engineering defector who lent corporate network utility knowledge to a scribal collective; his silence on her is calculated, breaking toward the ultimatum scene.
+
 ## Forward Notes (writing tasks, not contradictions)
 *   **NSA-South Facility Naming Parameters:** Open rename decision pending for whenever the Moab/Paradox Basin infrastructure re-surfaces in the text.
