@@ -85,6 +85,10 @@ This document tracks technical contradictions, structural retcons, and mechanica
 *   **Severity:** Medium (Technical Framework Alignment)
 *   **Resolution:** Created `chapters/chapter-08/module-8e.md` to complete the un-filed Chapter 8 structural spine. Corrected the Shaver Lake foundation to a **granite foundation** in `chapters/chapter-09/module-9b.md` and explicitly mapped the transpacific telemetry monitor to the **Santiago amateur packet transponder (Site 2)**.
 
+### [PATCH-017] Chapter 10, Module 10A: Technician Dialogue Timeline Correction
+*   **Severity:** Low (Dialogue Timeline Continuity)
+*   **Resolution:** Corrected the Synod line technician's dialogue in `chapters/chapter-10/module-10a.md` from "three weeks ago" to "two weeks ago": the shearing in Module 8E occurred November 28, 2026, and Module 10A is set December 12, 2026 — exactly fourteen days. Preserves the literal calendar line; no other 10A text altered.
+
 ## Settled Canon
 *   **Timeline:** Oct 22–25, 2026, discovery through impact. 1C Oct 22, 05:44Z → 1A Oct 22, 01:15–04:12 HST → 1B Oct 23, 05:30 PDT → 1D Oct 25, 06:10 PDT → impact Oct 25 evening.
 *   **Chapter boundary:** Chapter 1 runs discovery through impact (Modules 1A–1E). Chapter 2 focuses on pitch-black aftermath and infrastructural disintegration.
