@@ -111,8 +111,9 @@ This document tracks technical contradictions, structural retcons, and mechanica
 *   **Chapter 5 premise (Oct 28, 2026 ruling — see PATCH-012):** Marcus and Elena emerge from the Pod 1 subterranean blast doors into the winter frost; the F-250 is salvaged for parts, not lived in.
 *   **Tool index alignment (Oct 28, 2026 ruling — see PATCH-014):** The commercial cold chisel array is anchored to [ITEM-013]; the 1/2-inch drop-forged box wrench is re-indexed to [ITEM-014] with a cross-reference note, preserving both entries.
 
+*   **David's Route:** East out of Utah into the Paradox Basin/sandstone country first to evade the immediate interstate gridlock, then tracking a massive long-arc loop back west toward Shaver Lake in later acts to serve as a hardware calibration asset for the Synod.
+
 ## Forward Notes (writing tasks, not contradictions)
 *   AS/400 mechanism to be established in text before Chapter 8 (canon defined: cold-chassis + Faraday cage).
 *   Chapter 3 redefinition — complete: 'The Ash Migration' (Modules 3A–3E), outline synced — see PATCH-007.
 *   Pod 4 facility name at Moab — "NSA-South" retained for now; rename if desired.
-*   David's route — east out of Utah first, then west to Shaver Lake (long arc, not a direct route); confirm if intended.

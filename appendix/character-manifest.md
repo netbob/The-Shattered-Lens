@@ -1,6 +1,6 @@
 # Character Manifest: The Shattered Lens
 
-This file establishes the immutable lineages, organizational affiliations, and narrative fates for the primary and secondary character arcs across the multi-volume tracking schema of `netbob/The-Shattered-Lens`.
+This file establishes the immutable lineages, organizational affiliations, and narrative fates for the primary and secondary character arcs across the single-volume tracking schema of `netbob/The-Shattered-Lens`.
 
 ---
 
@@ -69,11 +69,11 @@ This file establishes the immutable lineages, organizational affiliations, and n
 
 ### 3. June Miller
 *   **Role:** Junior Observer / Astrometric Analyst.
-*   **Pre-Impact Status:** Graduate Research Assistant, University of Hawaii Department of Astronomy.
-*   **Current Location:** Site 1 Summit Tracking Gallery, Haleakala.
-*   **Lineage Connection:** Daughter to Arthur and Martha Miller.
-*   **Core Assets:** Brass surveyor's transit, mechanical weight-drop governor clockwork assembly.
-*   **Narrative Fate:** Co-founds the Hawaii Mountain Node alongside Aris Thorne (`Module 2C`, `3C`). Manually maintains the sidereal tracking weights of the 1.8-meter telescope using raw mechanical physics. **Remains completely cut off from the mainland; has no knowledge that her father died on November 2 in California.**
+*   **Pre-Impact Status:** Graduate Research Assistant, University of Hawaii Department of Astronomy [1A, 2C].
+*   **Current Location:** Site 1 Summit Tracking Gallery, Haleakala [2C, 3C].
+*   **Lineage Connection:** Daughter to Arthur and Martha Miller [4E, PATCH-013].
+*   **Core Assets:** Legacy K&E engineering transit (Observatory archive unit) [3C], mechanical weight-drop governor clockwork assembly [3C, 4C].
+*   **Narrative Fate:** Co-founds the Hawaii Mountain Node alongside Aris Thorne [2C, 3C]. Manually maintains the sidereal tracking weights of the 1.8-meter telescope using raw mechanical physics [4C]. Remains completely cut off from the mainland; has no knowledge that her father died on November 2 in California [4E].
 
 ---
 
