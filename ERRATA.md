@@ -115,6 +115,7 @@ This document tracks technical contradictions, structural retcons, and mechanica
 
 *   **Chapter 3 Redefinition:** Complete. Chapter 3 is permanently titled "The Ash Migration" (Modules 3A–3E), with the master repository architecture fully synchronized across `outline.md` per `[PATCH-007]`.
 
+*   **The Oracle Mainframe Framework (established in text — see Module 8A):** The IBM AS/400 Model 720 survives inside a military-grade Faraday cage (double-interlocked copper mesh on polyethylene blocks) four levels beneath the Shaver Lake hydroelectric station, its input strands severed by spring-loaded guillotines 42 minutes before impact; magnetic platters cold and intact, clock frame reference lost with the Boulder broadcast.
+
 ## Forward Notes (writing tasks, not contradictions)
 *   **NSA-South Facility Naming Parameters:** Open rename decision pending for whenever the Moab/Paradox Basin infrastructure re-surfaces in the text.
-*   **The Oracle Mainframe Framework:** The mechanical AS/400 cold-chassis Faraday cage infrastructure must be formally established in the text before the Synod's introduction in Chapter 8. (Runway remaining: Chapter 7).
