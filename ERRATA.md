@@ -62,6 +62,11 @@ This document tracks technical contradictions, structural retcons, and mechanica
 *   **Identified:** Aris reports a drift rate of "fifteen arcseconds per minute" for a stationary telescope, which contradicts the true earth-rotational sidereal rate of fifteen arcseconds per second.
 *   **Resolution:** Clarified the mechanical failure state in `chapters/chapter-04/module-4c.md`. The telescope drive has not stopped dead; the heavy clockwork gear train is actively slipping and grinding through the internal ice shelf within the pier, resulting in a net trailing drift of fifteen arcseconds per minute against the sky's actual movement.
 
+### [PATCH-012] Outline Chapters 5–6: Truck-Cab Premise Resolution
+*   **Severity:** Medium (Structural)
+*   **Identified:** The outline's Chapter 5 truck-door emergence conflicted with filed Modules 1D–1E, in which Marcus + Elena proceed on foot in the Pine Ridge hills with the rig abandoned. (Chapter 4's F-250 cab tomb was already resolved by the Hillside Vaults retitle — see PATCH-007.)
+*   **Resolution:** Rewrote outline Chapters 5–6 (Oct 28, 2026). Chapter 5 now emerges through the Pod 1 subterranean blast doors, with a foraging party salvaging the mechanical fuel pump matrix and vehicle battery plates from the abandoned F-250 before the salt tide seals the lower logging track. Chapter 6 formalizes the deep surface shafts housing the remaining 532 registered refugees, the permanent deep-well hand crank, and the permanent Central Desk. Forward Notes Chapter 5 item marked resolved.
+
 ## Settled Canon
 *   **Timeline:** Oct 22–25, 2026, discovery through impact. 1C Oct 22, 05:44Z → 1A Oct 22, 01:15–04:12 HST → 1B Oct 23, 05:30 PDT → 1D Oct 25, 06:10 PDT → impact Oct 25 evening.
 *   **Chapter boundary:** Chapter 1 runs discovery through impact (Modules 1A–1E). Chapter 2 focuses on pitch-black aftermath and infrastructural disintegration.
@@ -94,6 +99,6 @@ This document tracks technical contradictions, structural retcons, and mechanica
 *   ARQ clarifying line for 1B (ruling #10) — written Oct 28, 2026: ARQ connected-mode paragraph inserted into module-1B.md between the 'It's Aris' paragraph and the 'Teletype shattered' line.
 *   AS/400 mechanism to be established in text before Chapter 8 (canon defined: cold-chassis + Faraday cage).
 *   Chapter 3 redefinition — complete: 'The Ash Migration' (Modules 3A–3E), outline synced — see PATCH-007.
-*   Chapter 5 premise vs Modules 1D–1E — resolved Oct 28, 2026: outline Chapters 5–6 rewritten (Pod 1 blast-door emergence; F-250 salvaged for parts, not lived in) — see outline.md.
+*   Chapter 5 premise vs Modules 1D–1E — resolved Oct 28, 2026: outline Chapters 5–6 rewritten (Pod 1 blast-door emergence; F-250 salvaged for parts, not lived in) — see outline.md. See PATCH-012.
 *   Pod 4 facility name at Moab — "NSA-South" retained for now; rename if desired.
 *   David's route — east out of Utah first, then west to Shaver Lake (long arc, not a direct route); confirm if intended.
