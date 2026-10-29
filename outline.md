@@ -26,7 +26,7 @@
 *   **Module 3A (The Delta Back-Surge):** The Point Conception impact drives a hydraulic river inversion, turning the San Joaquin basin into a closed inland muddy sea.
 *   **Module 3B (The Eastward Inversion):** David Sterling navigates the slot canyons of the San Rafael Swell on foot, tracking his heading via mechanical chronometer forty road miles west of Green River.
 *   **Module 3C (The Spectral Inversion):** Aris uses a 1912 lithographed star spectrograph chart to verify the chemical transition of the stratosphere into a formaldehyde haze.
-*   **Module 3D (The Registry Line):** Marcus and Elena establish the physical ledger verification line at the Foothill Ridge Gate, processing the first wave of refugees (Robert Hayes).
+*   **Module 3D (The Registry Line):** Marcus and Elena establish the physical ledger verification line at the Foothill Ridge Gate, processing the first wave of refugees (Robert Cross).
 *   **Module 3E (The First Ledger Lock):** The closure of Chapter 3; the full codification of the Registry rules as the valley floor completes its submersion with 614 recorded names.
 
 ## Act II: The Great Disconnection (The Immediate Aftermath)

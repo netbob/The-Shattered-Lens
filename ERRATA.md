@@ -52,6 +52,11 @@ This document tracks technical contradictions, structural retcons, and mechanica
 *   **Identified:** Name collision with Robert Hayes (3D vs. Chapter 10) and an apparent population drop between 3E and 4A.
 *   **Resolution:** Confirmed Hayes as a single unified refugee-to-soldier character arc. Outline Module 4A now establishes that the 82 survivors are the primary command group in Pod 1, while the remaining 532 registered refugees are distributed through the secondary surface shafts and silos of Pine Ridge; `module-4a.md` text itself is untouched.
 
+### [PATCH-010] Module 3D: Character Name Collision Resolution
+*   **Severity:** High (Character Continuity)
+*   **Identified:** Name collision between the irrigation-district refugee in Module 3D and the captured Synod soldier in Chapters 10–11.
+*   **Resolution:** Preserved the Chapters 10–11 "Robert Hayes" Synod soldier arc to protect the integrity of the Shaver Lake infiltration narrative. Re-indexed the Module 3D refugee character name to **Robert Cross**, clearing the identity collision across the Act I/Act II timeline. All four name occurrences in `module-3d.md` renamed; no other 3D text altered. Outline Module 3D line updated to match. Supersedes the Hayes portion of PATCH-009's canon ruling (the unified refugee-to-soldier arc is void; see Settled Canon).
+
 ## Settled Canon
 *   **Timeline:** Oct 22–25, 2026, discovery through impact. 1C Oct 22, 05:44Z → 1A Oct 22, 01:15–04:12 HST → 1B Oct 23, 05:30 PDT → 1D Oct 25, 06:10 PDT → impact Oct 25 evening.
 *   **Chapter boundary:** Chapter 1 runs discovery through impact (Modules 1A–1E). Chapter 2 focuses on pitch-black aftermath and infrastructural disintegration.
@@ -75,7 +80,8 @@ This document tracks technical contradictions, structural retcons, and mechanica
 
 *   **Act structure (Oct 28, 2026 ruling):** Act I (The Logic Loop) spans exclusively Chapters 1–3 (Modules 1A–3E). Chapter 3 is permanently titled "The Ash Migration." Act II (The Great Disconnection) begins precisely at Chapter 4, permanently titled "The Hillside Vaults." Module headers win over the prior outline; outline.md patched to match.
 *   **3B geography (Oct 28, 2026 ruling):** David Sterling's slot-canyon wash is in the San Rafael Swell, **forty road miles west of Green River**, Utah, heading east toward the Book Cliffs.
-*   **Robert Hayes (Oct 28, 2026 ruling):** One unified refugee-to-soldier arc. The irrigation-district supervisor processed through the Foothill Ridge Gate on October 26 (Module 3D) is the exact same Robert Hayes who later takes up a rifle as a conscripted registry soldier in Chapter 10.
+*   **Robert Hayes (Oct 28, 2026 ruling, corrected same evening — see PATCH-010):** The Chapters 10–11 soldier. A child of the Shaver Lake Synod, a conscript fighting to save his mother's digital voucher identity before the mainframe suffers absolute bit-rot; captured by Marcus in the Chapter 10 midnight raid, spared, and returned to Shaver Lake with an asylum message in Chapter 11. He is NOT the Module 3D refugee (see Robert Cross).
+*   **Robert Cross (Oct 28, 2026 ruling — see PATCH-010):** The Module 3D refugee. Irrigation-district infrastructure supervisor who surrenders his iPhone at the Foothill Ridge Gate on October 26; undergoes a refugee-to-Registry-laborer arc in the foothills. Originally filed as Robert Hayes; renamed to clear the collision with the Chapters 10–11 soldier.
 *   **Pod numbering (Oct 28, 2026 ruling):** Independent local numbering architectures. The shared "Pod" designation is purely an artifact of industrial-military jargon; facilities number their sub-structures independently from local deployment blueprints, not a shared network mesh.
 *   **Population distribution (Oct 28, 2026 ruling):** The eighty-two in the Pod 1 map room are the core logistical crew, administrative staff, and young families housed directly around the Central Desk. The remaining 532 registered refugees are distributed throughout the facility's extended layout — the deep surface shafts, the legacy missile silos, and the auxiliary equipment decks.
 
