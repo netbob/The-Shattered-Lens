@@ -94,6 +94,11 @@ This document tracks technical contradictions, structural retcons, and mechanica
 *   **Identified:** Appendix B logged an inventory of three commercial cold chisels under `[ITEM-013]`, contradicting Module 10B's distribution of twelve chisels to the shaft line.
 *   **Resolution:** Reconciled the ledger count to twelve (12) units total by documenting the secondary recovery of nine irrigation district service chisels from the gate heap, maintaining absolute synchronization between the logistics cache and the narrative text.
 
+### [PATCH-019] Chapter 10, Module 10E: Registry Room Combat Closure
+*   **Severity:** High (Narrative/Structural Gap)
+*   **Identified:** The repository tree skipped the literal execution of the midnight fight module (`10E`), causing downstream citations in Chapter 11 to reference an un-filed asset.
+*   **Resolution:** Created `chapters/chapter-10/module-10e.md`, documenting the mechanical clash between the twenty-pound book press and Hayes' rifle stock to provide a complete, verified baseline for the Act IV timeline.
+
 ## Settled Canon
 *   **Timeline:** Oct 22–25, 2026, discovery through impact. 1C Oct 22, 05:44Z → 1A Oct 22, 01:15–04:12 HST → 1B Oct 23, 05:30 PDT → 1D Oct 25, 06:10 PDT → impact Oct 25 evening.
 *   **Chapter boundary:** Chapter 1 runs discovery through impact (Modules 1A–1E). Chapter 2 focuses on pitch-black aftermath and infrastructural disintegration.
