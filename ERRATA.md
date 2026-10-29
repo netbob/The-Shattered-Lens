@@ -113,7 +113,8 @@ This document tracks technical contradictions, structural retcons, and mechanica
 
 *   **David's Route:** East out of Utah into the Paradox Basin/sandstone country first to evade the immediate interstate gridlock, then tracking a massive long-arc loop back west toward Shaver Lake in later acts to serve as a hardware calibration asset for the Synod.
 
+*   **Chapter 3 redefinition (Oct 28, 2026 ruling — see PATCH-007):** Chapter 3 is 'The Ash Migration' (Modules 3A–3E); outline synced.
+
 ## Forward Notes (writing tasks, not contradictions)
 *   AS/400 mechanism to be established in text before Chapter 8 (canon defined: cold-chassis + Faraday cage).
-*   Chapter 3 redefinition — complete: 'The Ash Migration' (Modules 3A–3E), outline synced — see PATCH-007.
 *   Pod 4 facility name at Moab — "NSA-South" retained for now; rename if desired.
