@@ -3,7 +3,9 @@
 This document tracks technical contradictions, structural retcons, and mechanical telemetry corrections applied across the repository branches of `netbob/The-Shattered-Lens`. All Act I issues logged here are officially patched within the current version of the manuscript files.
 
 ## Open Issues
-*   None. All structural, geographic, and timeline discrepancies are verified and resolved.
+*   **Module 11C timeline precision (unruled):** Module 11C states 05:40 PDT on December 15, 2026, is "precisely two hours before Robert Hayes would be disarmed before the Central Desk" — 05:40 to Module 11A's 08:00 decree is two hours twenty minutes, and the Module 10E disarmament occurred December 14, 23:58 (before, not after). Precision claim unresolved.
+*   **Plate hex root count (unruled):** Settled Canon records three master directory roots (0x4F3B, 0x8E12, 0x00FF); Module 11C displays four, adding 0x7C1A. Fourth root or slip — awaiting ruling.
+*   **Module 11C "forty-eight hours ago" (minor, likely rough dialogue):** David's cascade reference stretches to approximately fifty-eight hours by December 15, 05:40, against Module 10E's exact forty-eight. Reads as frozen dialogue rather than a ledger claim; confirmation only.
 
 ## Patch Log
 
