@@ -67,6 +67,11 @@ This document tracks technical contradictions, structural retcons, and mechanica
 *   **Identified:** The outline's Chapter 5 truck-door emergence conflicted with filed Modules 1D–1E, in which Marcus + Elena proceed on foot in the Pine Ridge hills with the rig abandoned. (Chapter 4's F-250 cab tomb was already resolved by the Hillside Vaults retitle — see PATCH-007.)
 *   **Resolution:** Rewrote outline Chapters 5–6 (Oct 28, 2026). Chapter 5 now emerges through the Pod 1 subterranean blast doors, with a foraging party salvaging the mechanical fuel pump matrix and vehicle battery plates from the abandoned F-250 before the salt tide seals the lower logging track. Chapter 6 formalizes the deep surface shafts housing the remaining 532 registered refugees, the permanent deep-well hand crank, and the permanent Central Desk. Forward Notes Chapter 5 item marked resolved.
 
+### [PATCH-013] Chapter 4, Module 4E: Character Lineage and Telemetry Data Sync
+*   **Severity:** High (Narrative/Technical Bug)
+*   **Identified:** Module 4E introduced the illegal character name Sarah Miller, violated the 614-name limit with index 0615, and recorded an unadjusted Zulu timestamp loop for local PDT time occurrences.
+*   **Resolution:** Renamed the widow to **Martha Miller**, establishing her cleanly as June Miller's mother back in the valley floor registry. Re-indexed the death log entry to point directly to Arthur's original registration record (**Index 0412**), and standardized the data format block to a manually tracked local time offset string (**-07:00**). The closing allocation line was updated to match (four-hundred-and-twelve).
+
 ## Settled Canon
 *   **Timeline:** Oct 22–25, 2026, discovery through impact. 1C Oct 22, 05:44Z → 1A Oct 22, 01:15–04:12 HST → 1B Oct 23, 05:30 PDT → 1D Oct 25, 06:10 PDT → impact Oct 25 evening.
 *   **Chapter boundary:** Chapter 1 runs discovery through impact (Modules 1A–1E). Chapter 2 focuses on pitch-black aftermath and infrastructural disintegration.
@@ -94,6 +99,8 @@ This document tracks technical contradictions, structural retcons, and mechanica
 *   **Robert Cross (Oct 28, 2026 ruling — see PATCH-010):** The Module 3D refugee. Irrigation-district infrastructure supervisor who surrenders his iPhone at the Foothill Ridge Gate on October 26; undergoes a refugee-to-Registry-laborer arc in the foothills. Originally filed as Robert Hayes; renamed to clear the collision with the Chapters 10–11 soldier.
 *   **Pod numbering (Oct 28, 2026 ruling):** Independent local numbering architectures. The shared "Pod" designation is purely an artifact of industrial-military jargon; facilities number their sub-structures independently from local deployment blueprints, not a shared network mesh.
 *   **Population distribution (Oct 28, 2026 ruling):** The eighty-two in the Pod 1 map room are the core logistical crew, administrative staff, and young families housed directly around the Central Desk. The remaining 532 registered refugees are distributed throughout the facility's extended layout — the deep surface shafts, the legacy missile silos, and the auxiliary equipment decks.
+
+*   **Miller family (Oct 28, 2026 ruling — see PATCH-013):** Arthur Miller (retired diesel mechanic, Clovis irrigation pool) and Martha Miller are June Miller's father and mother, in the valley floor registry. June at the Haleakala Mountain Node does not know her father died November 2 in Pod 1.
 
 ## Forward Notes (writing tasks, not contradictions)
 *   ARQ clarifying line for 1B (ruling #10) — written Oct 28, 2026: ARQ connected-mode paragraph inserted into module-1B.md between the 'It's Aris' paragraph and the 'Teletype shattered' line.
