@@ -3,9 +3,11 @@
 This document tracks technical contradictions, structural retcons, and mechanical telemetry corrections applied across the repository branches of `netbob/The-Shattered-Lens`. All Act I issues logged here are officially patched within the current version of the manuscript files.
 
 ## Open Issues
-*   **Outline sync pending (Michael's call):** Chapter 3 is titled 'The Ash Migration' in the Module 3A header (first Chapter 3 module filed), but the outline still lists Chapter 3 as 'The Crimson Horizon' (content TBD). All seven Chapter 2-3 modules filed so far (2A-2E, 3A-3B) carry 'Act II: The Great Disconnection' headers, but the outline places Chapters 2 and 3 in Act I (Act II starts at Chapter 4). The outline is untouched pending Michael's decision on the Chapter 3 title and the Chapter 2-3 act placement.
+*   **Outline sync pending (Michael's call):** Chapter 3 is titled 'The Ash Migration' in the Module 3A header (first Chapter 3 module filed), but the outline still lists Chapter 3 as 'The Crimson Horizon' (content TBD). All nine Chapter 2-3 modules filed so far (2A-2E, 3A-3D) carry 'Act II: The Great Disconnection' headers, but the outline places Chapters 2 and 3 in Act I (Act II starts at Chapter 4). The outline is untouched pending Michael's decision on the Chapter 3 title and the Chapter 2-3 act placement.
 
 *   **3B geography — San Rafael Swell vs forty miles east of Green River (Michael's call):** Module 3B places David in "the slot canyons of the San Rafael Swell" in "an unmapped red-rock wash forty miles east of Green River, Utah," then has him face the Book Cliffs to the east. The Swell lies mostly west and southwest of Green River, so forty miles east puts him past it, toward the Book Cliffs. Needs his ruling: either the wash is in the Swell (closer to Green River) or he is east of it. Filed as written in `chapters/chapter-03/module-3b.md`; text untouched pending his decision.
+
+*   **3D vs Chapter 10 — Robert Hayes identity (Michael's call):** Module 3D introduces Robert Hayes as an irrigation-district infrastructure supervisor, a refugee entering the Registry at the Foothill Ridge Gate on October 26. The October 26 canon ruling renamed the Chapter 10 soldier Robert Hayes. Needs his ruling: either 3D's Hayes is the same man (a refugee-to-soldier arc) or the name is a collision and one of them needs a new name. Filed as written in `chapters/chapter-03/module-3d.md`; text untouched pending his decision.
 
 ## Patch Log
 
