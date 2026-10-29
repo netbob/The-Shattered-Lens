@@ -35,6 +35,7 @@
 *   **Module 4A (The Frost Floor):** The transition into Pod 1 of the Pine Ridge facility as the impact winter drops temperatures; eighty-two survivors anchor the Central Desk while the remaining 532 occupy the shafts.
 *   **Module 4B (The Lithic Thermocline):** David Sterling shelters in a Book Cliffs fissure on October 29 as the impact winter deepens; the steel plate becomes a windbreak against the katabatic cold.
 *   **Module 4C (The Gravity Escape):** Aris and June fight a slipping clockwork tracking drive at the Pan-STARRS 2 dome on October 30, holding the 1.8-meter telescope on the Pegasus sector by hand.
+*   **Module 4D (The Caloric Tally):** Pod 1 rations cut to eight ounces as stores are reconciled [4D].
 *   **Module 4E (The Baseline Settlement):** The first death inside Pod 1 on November 2 — Arthur Miller's mortality entry closes the registry's first allocation.
 
 ### Chapter 5: The Ash Walkers
@@ -57,10 +58,11 @@
 
 - **Narrative Focus:** The establishment of "The Registry" economy and the codification of paper trust.
 - **Key Developments:**
-  - Ninety-two survivors are integrated into the bunker network. Marcus establishes the caloric credit system based on handwritten ledger entries and hand-stamped lead bullet-mold tokens.
+  - Eighty-two survivors anchor the core command group around the Central Desk inside Pod 1. Marcus establishes the caloric credit system based on handwritten ledger entries and hand-stamped lead bullet-mold tokens.
   - A micro-society forms: technicians are repurposed as manual gravel-shifters, farmers learn to parse the frozen soil for edible roots, and literacy in copperplate handwriting becomes the highest technical skill.
   - The psychological shift: people stop asking for their bank balances and start fighting over who has a recorded credit for an iron spade.
   - The Registry's timekeeper (unnamed): a veteran drummer who marks the hours by drum — time kept by hand, rhyming with Marcus's stopwatch — playing Zappa fills between beats, a homage to John Sundman.
+  - David Sterling turns westward along the Tavaputs Plateau rim trail and encounters the Synod's search patrols tracking the fiber-optic corridors, bridging the Registry economy to the Chapter 8 confrontation [7B].
 
 ### Chapter 8: The Oracle of Shaver Lake
 
