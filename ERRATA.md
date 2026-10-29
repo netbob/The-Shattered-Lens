@@ -57,6 +57,11 @@ This document tracks technical contradictions, structural retcons, and mechanica
 *   **Identified:** Name collision between the irrigation-district refugee in Module 3D and the captured Synod soldier in Chapters 10–11.
 *   **Resolution:** Preserved the Chapters 10–11 "Robert Hayes" Synod soldier arc to protect the integrity of the Shaver Lake infiltration narrative. Re-indexed the Module 3D refugee character name to **Robert Cross**, clearing the identity collision across the Act I/Act II timeline. All four name occurrences in `module-3d.md` renamed; no other 3D text altered. Outline Module 3D line updated to match. Supersedes the Hayes portion of PATCH-009's canon ruling (the unified refugee-to-soldier arc is void; see Settled Canon). Note: the PATCH-010 staging snippet ended mid-line at 'accept your caloric credit'; applying it verbatim would have deleted Elena's closing clause ('If you keep the glass, you turn around and walk back down to the water line.'). The clause was deliberately preserved per Michael's ruling; only the four renames were applied.
 
+### [PATCH-011] Chapter 4, Module 4C: Sidereal Velocity Sync
+*   **Severity:** Medium (Technical Telemetry Bug)
+*   **Identified:** Aris reports a drift rate of "fifteen arcseconds per minute" for a stationary telescope, which contradicts the true earth-rotational sidereal rate of fifteen arcseconds per second.
+*   **Resolution:** Clarified the mechanical failure state in `chapters/chapter-04/module-4c.md`. The telescope drive has not stopped dead; the heavy clockwork gear train is actively slipping and grinding through the internal ice shelf within the pier, resulting in a net trailing drift of fifteen arcseconds per minute against the sky's actual movement.
+
 ## Settled Canon
 *   **Timeline:** Oct 22–25, 2026, discovery through impact. 1C Oct 22, 05:44Z → 1A Oct 22, 01:15–04:12 HST → 1B Oct 23, 05:30 PDT → 1D Oct 25, 06:10 PDT → impact Oct 25 evening.
 *   **Chapter boundary:** Chapter 1 runs discovery through impact (Modules 1A–1E). Chapter 2 focuses on pitch-black aftermath and infrastructural disintegration.
