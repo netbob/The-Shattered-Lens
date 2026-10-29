@@ -77,6 +77,10 @@ This document tracks technical contradictions, structural retcons, and mechanica
 *   **Identified:** A tool index collision occurred when the three commercial cold chisels were mapped to `[ITEM-013]`, which had already been assigned to the drop-forged 1/2-inch box wrench salvaged in Module 5C.
 *   **Resolution:** Preserved both historical entries. The commercial cold chisel array remains anchored to `[ITEM-013]`. The 1/2-inch drop-forged box wrench has been safely re-indexed down to **`[ITEM-014]`**, with an explicit cross-reference note added to its ledger description to prevent future continuity drift.
 
+### [PATCH-015] Chapter 7, Module 7D: Extraction and Transit Gap Closure
+*   **Severity:** Medium (Structural Continuity)
+*   **Resolution:** Documented the creation of `chapters/chapter-07/module-7d.md` to bridge David Sterling's capture along the canal corridor into Module 8A.
+
 ## Settled Canon
 *   **Timeline:** Oct 22–25, 2026, discovery through impact. 1C Oct 22, 05:44Z → 1A Oct 22, 01:15–04:12 HST → 1B Oct 23, 05:30 PDT → 1D Oct 25, 06:10 PDT → impact Oct 25 evening.
 *   **Chapter boundary:** Chapter 1 runs discovery through impact (Modules 1A–1E). Chapter 2 focuses on pitch-black aftermath and infrastructural disintegration.
