@@ -14,6 +14,7 @@ VERIFIED BY: ELENA VANCE, KEEPER OF THE GRID
 *   [ITEM-003] Mining Picks: Three (3) units, 4-lb drop-forged iron heads with oil-treated hickory shafts. Checked for structural stress fractures; handles reset with copper wedges.
 *   [ITEM-004] Sledgehammers: Two (2) units, 12-lb cast iron heads, short-handled for confined space clearing within the old surface shaft tunnels.
 *   [ITEM-012] Cold Chisel: Two-foot, forged from an old leaf spring salvaged from the gate heap. Used to break the ice seal on the Pod 1 blast door.
+*   [ITEM-013] Box Wrench: Legacy drop-forged 1/2-inch box wrench, carried in Marcus Thorne's coat pocket. Used to free the terminal lugs on the F-250's auxiliary battery plates, bypassing the shorted main wiring harness.
 
 #### II. FLUID TRANSFER & CALORIC STORAGE
 *   [ITEM-005] Auxiliary Liquid Fuel: Forty-two (42) gallons of triple-filtered No. 2 off-road diesel oil. Volume verified via notched wooden dipstick measurements along tank lateral. Stored in two-inch welded steel jerrycans.
