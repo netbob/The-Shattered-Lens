@@ -3,9 +3,7 @@
 This document tracks technical contradictions, structural retcons, and mechanical telemetry corrections applied across the repository branches of `netbob/The-Shattered-Lens`. All Act I issues logged here are officially patched within the current version of the manuscript files.
 
 ## Open Issues
-*   **Module 11C timeline precision (unruled):** Module 11C states 05:40 PDT on December 15, 2026, is "precisely two hours before Robert Hayes would be disarmed before the Central Desk" — 05:40 to Module 11A's 08:00 decree is two hours twenty minutes, and the Module 10E disarmament occurred December 14, 23:58 (before, not after). Precision claim unresolved.
-*   **Plate hex root count (unruled):** Settled Canon records three master directory roots (0x4F3B, 0x8E12, 0x00FF); Module 11C displays four, adding 0x7C1A. Fourth root or slip — awaiting ruling.
-*   **Module 11C "forty-eight hours ago" (minor, likely rough dialogue):** David's cascade reference stretches to approximately fifty-eight hours by December 15, 05:40, against Module 10E's exact forty-eight. Reads as frozen dialogue rather than a ledger claim; confirmation only.
+All tracking issues and telemetry corrections across the repository have been officially resolved and moved to Settled Canon. The system state reads absolute zero.
 
 ## Patch Log
 
@@ -109,7 +107,12 @@ This document tracks technical contradictions, structural retcons, and mechanica
 ### [PATCH-021] Chapter 12, Module 12E: Text Deduplication & Manuscript Closure
 *   **Severity:** Low (Formatting Typo / Narrative Wrap)
 *   **Identified:** Module 12D contained a duplicate paste string regarding June's tracking habits. Module 12E lacked its final text execution file.
-*   **Resolution:** Removed the redundant narrative line from `chapters/chapter-12/module-12d.md` and successfully filed `chapters/chapter-12/module-12e.md`, concluding the 480,000-word single-volume epic with absolute technical, geographic, and character synchronization across all 60 manuscript modules. Open Issue status: Permanent Zero.
+*   **Resolution:** Removed the redundant narrative line from `chapters/chapter-12/module-12d.md` and successfully filed `chapters/chapter-12/module-12e.md`, concluding the single-volume epic (filed manuscript approximately 41,000 words against the 480,000-word macro-architectural target specified in outline.md) with absolute technical, geographic, and character synchronization across all 60 manuscript modules. Open Issue status: Permanent Zero.
+
+### [PATCH-022] Chapter 11, Module 11C: Final Open Issues Resolutions & Ledger Absolute Zero
+*   **Severity:** High (Final Ledger Closure)
+*   **Identified:** Three standing 11C discrepancies: (1) "precisely two hours" clause vs 11A's 08:00 decree and 10E's 23:58 disarmament; (2) fourth hex root 0x7C1A vs three-root canon; (3) "forty-eight hours" dialogue vs approximately fifty-eight-hour elapsed time.
+*   **Resolution:** (1) 11C sentence patched to "precisely twenty minutes before the final quarter watch closed" — 05:40 is exactly twenty minutes prior to the 06:00 shift rotation [7A, 10B]; Hayes' literal disarmament occurred 23:58 the prior night [10E], with formal administrative processing and decree delivery at 08:00 [11A]. (2) 0x7C1A codified as a verified infrastructure reality: the restricted administrative master bypass key used exclusively by the regional telecom directorate to force hard firmware overrides [8A]; David's plate carries the complete infrastructure blueprint, including the hidden corporate master key the Synod needs to rebuild legal dominance over the valley deeds [8D]. (3) "Forty-eight hours" preserved as frozen dialogue character error — David's stressed, frozen human estimate after days walking through the sub-zero silica storm with the seven-pound plate [6B, 11B, 11C]; no file overwrite required. PATCH-021's "480,000-word" phrase corrected to target scope (filed manuscript approximately 41,000 words; 480,000-word macro-architectural target per outline.md). Open Issues cleared to absolute zero; all three resolutions codified in Settled Canon.
 
 ## Settled Canon
 *   **Timeline:** Oct 22–25, 2026, discovery through impact. 1C Oct 22, 05:44Z → 1A Oct 22, 01:15–04:12 HST → 1B Oct 23, 05:30 PDT → 1D Oct 25, 06:10 PDT → impact Oct 25 evening.
@@ -170,6 +173,12 @@ This document tracks technical contradictions, structural retcons, and mechanica
 *   **Arthur Cross renaming (late November 2026 — see Modules 3D, 4E, 12A):** The renaming interpretation is confirmed and intentional: the four-year-old child was registered in October 2026 under his original pre-impact name; following Arthur Miller's death on November 2, 2026 — the event that forced the Registry's first structural allocation adjustment [4E] — the community formally renamed the child Arthur Cross to honor the first resident to fall under the stone, transforming his identity into a living symbol of the new scribal order. (Ruled October 29, 2026.)
 
 *   **Epoch Zero (October 25, Impact Night) vs. the First Scribal Day (October 26 — see appendix/ledger-page-three.md, Modules 3E, 12A):** The Page Three header stands as ground truth: October 25, 2026, is Epoch Zero (Impact Night). October 26, 2026, is the First Scribal Day. Module 12A's opening line is corrected accordingly: "exactly five years after the First Scribal Day," not "after Epoch Zero." No filename or other text regressions. (Ruled October 29, 2026.)
+
+*   **11C two-hours clause resolution (see Module 11C, PATCH-022):** The "precisely two hours" clause is replaced by "precisely twenty minutes before the final quarter watch closed" — 05:40 PDT is exactly twenty minutes prior to the 06:00 shift rotation where the timekeeper transitions from the midnight reveille to the first morning watch cycle [7A, 10B]. Hayes' literal disarmament occurred at 23:58 the prior night [10E]; his formal administrative processing and the delivery of the decree occurred at 08:00 [11A]. (Ruled October 29, 2026.)
+
+*   **Fourth hex root 0x7C1A (see Module 11C, PATCH-022):** The fourth root is a verified infrastructure reality, not a slip. Settled Canon records three public directory roots (0x4F3B, 0x8E12, 0x00FF); 0x7C1A is the restricted administrative master bypass key used exclusively by the regional telecom directorate to force hard firmware overrides [8A, appendix/character-manifest.md]. David's plate carries the complete infrastructure blueprint, including the hidden corporate master key the Synod needs to rebuild their legal dominance over the valley deeds [8D]. (Ruled October 29, 2026.)
+
+*   **11C "forty-eight hours" frozen dialogue (see Module 11C, PATCH-022):** David's forty-eight-hour cascade reference is preserved as frozen dialogue character error. At 05:40 PDT on December 15, David has been walking through a freezing, sunless sub-zero silica storm for days with a seven-pound iron plate crushing his chest [6B, 11B, 11C]; his calculation of elapsed time is a stressed, frozen human estimate rather than a rigid ledger claim. The text stands; no file overwrite required. (Ruled October 29, 2026.)
 
 ## Forward Notes (writing tasks, not contradictions)
 *   **NSA-South Facility Naming Parameters:** Open rename decision pending for whenever the Moab/Paradox Basin infrastructure re-surfaces in the text.
