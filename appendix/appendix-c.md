@@ -38,7 +38,7 @@ This inversion layer introduces three distinct mechanical failure points into th
 #### 2.1 The Barometric Squeeze (Density Elevation)
 The condensation and cooling of the formaldehyde gas matrix elevate the local density parameter of the air column inside the unheated mountain vaults [4D, 11C]. Under an absolute temperature profile of fifty-six degrees below zero, the molecular weight of the ambient gas mixture rises by 14.2% relative to dry baseline atmosphere [10A, 10E].
 *   **Aerodynamic Drag Inversion:** The increased gas density increases the aerodynamic skin friction against the rotating cross-arms of the beryllium-bronze balance wheel.
-*   **Amplitude Decay:** The balance amplitude decays from a pristine horizontal swing of 270 degrees down to a restricted 195 degrees, decreasing the total kinetic energy stored within the hairspring loop.
+*   **Amplitude Decay:** The balance amplitude decays from a pristine horizontal swing of 275 degrees down to a restricted 195 degrees, decreasing the total kinetic energy stored within the hairspring loop.
 
 #### 2.2 Fluidic Viscosity Shift (The Lubricant Gel Loop)
 The primary jewel sinks—specifically the capped ruby bearings supporting the balance staff pivots—utilize legacy high-viscosity mineral lubricants [5C, `[ITEM-007]`].

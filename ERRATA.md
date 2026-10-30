@@ -114,6 +114,11 @@ All tracking issues and telemetry corrections across the repository have been of
 *   **Identified:** Three standing 11C discrepancies: (1) "precisely two hours" clause vs 11A's 08:00 decree and 10E's 23:58 disarmament; (2) fourth hex root 0x7C1A vs three-root canon; (3) "forty-eight hours" dialogue vs approximately fifty-eight-hour elapsed time.
 *   **Resolution:** (1) 11C sentence patched to "precisely twenty minutes before the final quarter watch closed" — 05:40 is exactly twenty minutes prior to the 06:00 shift rotation [7A, 10B]; Hayes' literal disarmament occurred 23:58 the prior night [10E], with formal administrative processing and decree delivery at 08:00 [11A]. (2) 0x7C1A codified as a verified infrastructure reality: the restricted administrative master bypass key used exclusively by the regional telecom directorate to force hard firmware overrides [8A]; David's plate carries the complete infrastructure blueprint, including the hidden corporate master key the Synod needs to rebuild legal dominance over the valley deeds [8D]. (3) "Forty-eight hours" preserved as frozen dialogue character error — David's stressed, frozen human estimate after days walking through the sub-zero silica storm with the seven-pound plate [6B, 11B, 11C]; no file overwrite required. PATCH-021's "480,000-word" phrase corrected to target scope (filed manuscript approximately 41,000 words; 480,000-word macro-architectural target per outline.md). Open Issues cleared to absolute zero; all three resolutions codified in Settled Canon.
 
+### [PATCH-023] Appendix C: Baseline Amplitude Parity Correction
+*   **Severity:** Low (Data Parity Discrepancy)
+*   **Identified:** Section 2.1 cited a pristine balance wheel amplitude of 270 degrees, contradicting Section 3.2's ground-truth table value of 275 degrees.
+*   **Resolution:** Synchronized the narrative text in `appendix/appendix-c.md` to match the 275-degree baseline value, ensuring absolute alignment within the chronometric specifications.
+
 ## Settled Canon
 *   **Timeline:** Oct 22–25, 2026, discovery through impact. 1C Oct 22, 05:44Z → 1A Oct 22, 01:15–04:12 HST → 1B Oct 23, 05:30 PDT → 1D Oct 25, 06:10 PDT → impact Oct 25 evening.
 *   **Chapter boundary:** Chapter 1 runs discovery through impact (Modules 1A–1E). Chapter 2 focuses on pitch-black aftermath and infrastructural disintegration.
