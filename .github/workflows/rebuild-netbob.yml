@@ -1,0 +1,26 @@
+name: Rebuild netbob.org
+
+# When Lens chapters change, ask Cloudflare Pages to rebuild netbob.org so
+# the Books tab's fetched Lens section picks them up. Requires the repo
+# secret NETBOB_PAGES_DEPLOY_HOOK (a Cloudflare Pages deploy-hook URL);
+# until that secret exists the job logs a skip and exits cleanly.
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'chapters/**'
+      - 'cover.webp'
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Cloudflare Pages deploy hook
+        run: |
+          if [ -n "$NETBOB_DEPLOY_HOOK" ]; then
+            curl -sf -X POST "$NETBOB_DEPLOY_HOOK"
+          else
+            echo "NETBOB_PAGES_DEPLOY_HOOK not set; skipping."
+          fi
+        env:
+          NETBOB_DEPLOY_HOOK: ${{ secrets.NETBOB_PAGES_DEPLOY_HOOK }}
