@@ -153,5 +153,9 @@ This document tracks technical contradictions, structural retcons, and mechanica
 
 *   **Newcomer double-rotation intake (see Modules 6E, 11A, 11E):** The "eight ounces of salt pork and the pint of water" requested in Module 11E is the full caloric requirement for a twenty-four-hour day — two consecutive twelve-hour manual labor rotations at four ounces per rotation under the 6E/11A lock — not a change to the single-shift unit value. The ledger entry locks the newcomer into the standard shift breakdown under manual verification. No text overwrite required. (Ruled October 29, 2026.)
 
+*   **Arthur Cross (lineage exception — see Modules 3D, 4E, 12A):** Arthur Cross is explicitly codified as Robert Cross's son — a deliberate exception to the standalone namesake default. Robert processed through the gate line on October 26, 2026, as an irrigation supervisor with his family [3D]; five years later his son Arthur sits in the slate room. Arthur is named in memory of the Registry's first casualty, Arthur Miller [4E]. This deepens the inter-generational continuity of the labor group faction [6A, 7A]. (Ruled October 29, 2026.)
+
+*   **Epoch Zero and the First Scribal Day (see Modules 1E, 3E, 12A):** The core fragment of Astraea-9 struck the coast on the evening of October 25, 2026 [1E]. The first complete calendar day under scribal administration — Marcus drew the double horizontal rule on Page Six, closed out the gate registries, and officially locked the books at 18:34 PDT on October 26, 2026 [3E] — is the First Scribal Day, the formal initiation of the paper kingdom. October 26, 2031, is therefore exactly five years to the day from that initiation. (Ruled October 29, 2026.)
+
 ## Forward Notes (writing tasks, not contradictions)
 *   **NSA-South Facility Naming Parameters:** Open rename decision pending for whenever the Moab/Paradox Basin infrastructure re-surfaces in the text.
