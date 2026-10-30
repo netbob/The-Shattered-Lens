@@ -8,6 +8,25 @@ A hard-dystopian post-apocalyptic narrative detailing the collapse of structural
 
 [For Jen](dedication.md).
 
+## Read the book
+
+A post-impact novel about the war over memory: paper ledgers against a dying AS/400 database. Start at Chapter 1; chapters are filed as five modules each.
+
+- [Chapter 1: The Ephemeris Error](chapters/chapter-01/) — complete
+- [Chapter 2: The Dying of the Keys](chapters/chapter-02/) — complete
+- [Chapter 3: The Ash Migration](chapters/chapter-03/) — complete
+- [Chapter 4: The Hillside Vaults](chapters/chapter-04/) — complete
+- [Chapter 5: The Ash Walkers](chapters/chapter-05/) — complete
+- [Chapter 6: Securing the Vault](chapters/chapter-06/) — complete
+- [Chapter 7: The Ledger and the Token](chapters/chapter-07/) — complete
+- [Chapter 8: The Oracle of Shaver Lake](chapters/chapter-08/) — complete
+- [Chapter 9: Bit-Rot](chapters/chapter-09/) — complete
+- [Chapter 10: The Winter Solstice Skirmish](chapters/chapter-10/) — complete
+- [Chapter 11: The Death of the Screen](chapters/chapter-11/) — complete
+- [Chapter 12: The Paper Kingdom](chapters/chapter-12/) — complete
+
+Or read it on the web at netbob.org/book/.
+
 ## Technical Lore & Theoretical Framework
 
 ### 1. The Ephemeris Divergence (Astraea-9)
