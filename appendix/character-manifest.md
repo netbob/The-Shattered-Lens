@@ -75,6 +75,13 @@ This file establishes the immutable lineages, organizational affiliations, and n
 *   **Core Assets:** Legacy K&E engineering transit (Observatory archive unit) [3C], mechanical weight-drop governor clockwork assembly [3C, 4C].
 *   **Narrative Fate:** Co-founds the Hawaii Mountain Node alongside Aris Thorne [2C, 3C]. Manually maintains the sidereal tracking weights of the 1.8-meter telescope using raw mechanical physics [4C]. Remains completely cut off from the mainland; has no knowledge that her father died on November 2 in California [4E].
 
+### 4. Reginald Miller
+*   **Role:** Registered Refugee / Heavy Labor Group [11E].
+*   **Pre-Impact Status:** Lead Line Supervisor, Shaver Lake Hydroelectric Station [11E].
+*   **Current Location:** Shaft 3 living quarters / Ventilation matrix, Pine Ridge [11E].
+*   **Lineage Connection:** Unrelated namesake; no blood link to the Haleakala or Shaver Lake engineer lines [PATCH-013, Settled Canon].
+*   **Narrative Fate:** Led the mass technical defection away from Shaver Lake on December 15, 2026, after the absolute bit-rot of the AS/400 mainframe reached the microcode layers [9D, 11E]. Surrendered his tools to the gate heap on foot, signed his physical mark into the Registry as Index 0616, and accepted the permanent manual flywheel draft to survive the winter [11E].
+
 ---
 
 ## IV. Unaffiliated Core Registrants
@@ -98,3 +105,10 @@ This file establishes the immutable lineages, organizational affiliations, and n
 *   **Pre-Impact Status:** Dependent youth inside the Shaver Lake enclosure.
 *   **Current Location:** Shaver Lake Switching Center (Act I/II) → Registry Captive (Act IV).
 *   **Narrative Fate:** Sent up the mountain by the Director in Chapter 10 to execute a midnight black-ops raid to seize Marcus's paper books to use as a database calibration source. Captured in the map room by Marcus and Elena, spared due to his status as a desperate conscript fighting to protect his mother's digital index, and sent back to Shaver Lake with an open asylum terms message in Chapter 11.
+
+### 4. Arthur Cross
+*   **Role:** The First Slate Generation / Student [12A].
+*   **Pre-Impact Status:** Dependent youth (four years old at impact) [3D].
+*   **Current Location:** Secondary blast valve deck schoolroom, Pine Ridge [12A].
+*   **Lineage Connection:** Son to Robert Cross [3D, 12A].
+*   **Narrative Fate:** Processed through the gate line as an unnamed dependent on October 26, 2026 [3D]. Formally renamed "Arthur Cross" in late November 2026 to honor the memory of Arthur Miller, the Registry's first internal casualty [4E]. Becomes the literate voice of the new generation, learning nineteenth-century copperplate script on split quarry tiles [12A].

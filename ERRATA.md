@@ -157,5 +157,9 @@ This document tracks technical contradictions, structural retcons, and mechanica
 
 *   **Epoch Zero and the First Scribal Day (see Modules 1E, 3E, 12A):** The core fragment of Astraea-9 struck the coast on the evening of October 25, 2026 [1E]. The first complete calendar day under scribal administration — Marcus drew the double horizontal rule on Page Six, closed out the gate registries, and officially locked the books at 18:34 PDT on October 26, 2026 [3E] — is the First Scribal Day, the formal initiation of the paper kingdom. October 26, 2031, is therefore exactly five years to the day from that initiation. (Ruled October 29, 2026.)
 
+*   **Arthur Cross renaming (late November 2026 — see Modules 3D, 4E, 12A):** The renaming interpretation is confirmed and intentional: the four-year-old child was registered in October 2026 under his original pre-impact name; following Arthur Miller's death on November 2, 2026 — the event that forced the Registry's first structural allocation adjustment [4E] — the community formally renamed the child Arthur Cross to honor the first resident to fall under the stone, transforming his identity into a living symbol of the new scribal order. (Ruled October 29, 2026.)
+
+*   **Epoch Zero (October 25, Impact Night) vs. the First Scribal Day (October 26 — see appendix/ledger-page-three.md, Modules 3E, 12A):** The Page Three header stands as ground truth: October 25, 2026, is Epoch Zero (Impact Night). October 26, 2026, is the First Scribal Day. Module 12A's opening line is corrected accordingly: "exactly five years after the First Scribal Day," not "after Epoch Zero." No filename or other text regressions. (Ruled October 29, 2026.)
+
 ## Forward Notes (writing tasks, not contradictions)
 *   **NSA-South Facility Naming Parameters:** Open rename decision pending for whenever the Moab/Paradox Basin infrastructure re-surfaces in the text.
