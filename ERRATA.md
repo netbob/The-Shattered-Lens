@@ -149,5 +149,9 @@ This document tracks technical contradictions, structural retcons, and mechanica
 
 *   **The Shaver Lake Engineer "Miller" (unrelated namesake — see Module 10C):** The junior systems engineer David addresses as "Miller" in Module 10C is an unrelated namesake — a common valley surname trapped on the opposite side of the logic divide — not a blood relative of Arthur, Martha, or June Miller. No lineage link exists. Should a future text module require a hidden blood link, it must earn its entry in the patch log first.
 
+*   **Reginald Miller (unrelated namesake — see Module 11E):** The senior line supervisor from the hydro decks registered at Index 0616 in Module 11E is an unrelated namesake — a common Central Valley surname trapped on the opposite side of the logic divide — not a blood relative of Arthur, Martha, or June Miller, nor of the junior engineer from Module 10C. No lineage link exists. (Ruled October 29, 2026.)
+
+*   **Newcomer double-rotation intake (see Modules 6E, 11A, 11E):** The "eight ounces of salt pork and the pint of water" requested in Module 11E is the full caloric requirement for a twenty-four-hour day — two consecutive twelve-hour manual labor rotations at four ounces per rotation under the 6E/11A lock — not a change to the single-shift unit value. The ledger entry locks the newcomer into the standard shift breakdown under manual verification. No text overwrite required. (Ruled October 29, 2026.)
+
 ## Forward Notes (writing tasks, not contradictions)
 *   **NSA-South Facility Naming Parameters:** Open rename decision pending for whenever the Moab/Paradox Basin infrastructure re-surfaces in the text.
